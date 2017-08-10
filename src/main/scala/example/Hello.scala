@@ -12,21 +12,26 @@ object Hello extends Greeting with App {
 
   val xs : List[(Int, String)] = 80 to 10000 map (id => (id, s"http://weixinqun.com/group?id=${id}")) toList
 
-  val groups = Future.sequence(xs.map(tuple => toContent(tuple._2)(tuple._1)))//.map(toGroups)
+//  val groups = Future.sequence(xs.map(tuple => toContent(tuple._2)(tuple._1)))//.map(toGroups)
+//
+//  groups.foreach(gs => gs.filter(!_.isEmpty).foreach(g => println(g.get)))
 
-  groups.foreach(gs => gs.filter(!_.isEmpty).foreach(g => println(g.get)))
+
+  xs.foreach(tuple => toContent(tuple._2)(tuple._1))
+
 
   type GroupSegment = String
 
   private def toSegment(inputStream: InputStream)(implicit id: Int): Option[Group] = Source.fromInputStream(inputStream, "UTF-8").getLines().foldLeft[ContentReader](EmptyReader(id)){ case (reader, line) => reader.read(line)}.getGroup
 
-  private def toContent(link: String)(implicit id: Int): Future[Option[Group]] = {
-    fetchPage(link).map(toSegment)
+  private def toContent(link: String)(implicit id: Int)= {
+    fetchPage(link).map(toSegment).foreach(og => if (!og.isEmpty) println(og.get))
   }
 
   private def fetchPage(link: String) = {
     val cf = new AsyncHttpClientConfigBean
-    cf.setMaxConnectionPerHost(100)
+//    cf.setMaxConnectionPerHost(100)
+    cf.setMaxConnectionLifeTimeInMs(500)
     val client = new AsyncHttpClient(cf)
     var result = Promise[InputStream]()
 
@@ -34,13 +39,13 @@ object Hello extends Greeting with App {
     client.executeRequest(request, new AsyncCompletionHandler[Response]() {
       override def onCompleted(response: Response) = {
         result.success(response.getResponseBodyAsStream)
-        //client.closeAsynchronously()
+        //client.close()
         response
       }
 
       override def onThrowable(t: Throwable) {
         result.failure(t)
-        //client.closeAsynchronously()
+        //client.close()
       }
     })
     result.future
