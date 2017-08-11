@@ -25,10 +25,15 @@ trait ContentReader {
 }
 
 case class EmptyReader(id: Int) extends ContentReader {
-  override def read(line: String) = if (line contains ("""img src="upload/""")) {
-    SquareCodeReader(id, findImageLinks(line).toList.head)
-  } else {
-    this
+  override def read(line: String) = {
+    if (line contains ("""img src="upload/""")) {
+      SquareCodeReader(id, findImageLinks(line).toList.head)
+    } else if (line contains("""<img src="http://img2.weixinqun.com""")) {
+      SquareCodeReader(id, findImageLinks(line).toList.head)
+    }
+    else {
+      this
+    }
   }
 }
 
