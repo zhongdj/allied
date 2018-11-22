@@ -47,38 +47,17 @@ object DetailParser2 extends App {
   val company = """.*?<li>开发商：(.*?)</li>.*?<a href=\"/tag/.*\">(.*?)</a>.*""".r
   val company2 = """.*?<li>开发商：(.*?)</li>.*?<a href=\"/soft/.*\">(.*?)</a>.*""".r
 
-  def seeking(): ExtractorState[Prod] = parse[Prod] {
-    case line if (line contains prod) => productStarted(XRJProductParser.Product())
-  }
-
-  def productStarted(product: Prod) = parse[Prod] {
-    case name(n) => nameLoaded(product.copy(title = n))
-  }
-
-  def nameLoaded(product: Prod) = parse[Prod] {
-    case company(name, secondaryCate) => done(product.copy(companyName = name, secondaryCategory = secondaryCate))
-    case company2(name, secondaryCate) => done(product.copy(companyName = name, secondaryCategory = secondaryCate))
-  }
-
-  def done(product: Prod) = parse(PartialFunction.empty)(Some(product))
-/*
-  println(
-    Source.fromFile("/Users/barry/Workspaces/frank/allied/src/main/resources/detail.html", "UTF8")
-      .getLines()
-      .foldLeft[ExtractorState[Prod]](seeking())((s, l) => s.read(l))
-      .extracted
-  )
-*/
-
   import StateBuilder._
 
   val prodExtractor: ExtractorState[Prod] =
-    initialize[Prod] { case (p, prod(_)) => p }
-      .andThen { case (p, name(n)) => p.copy(title = n) }
-      .andThen {
-        case (p, company(c, s)) => p.copy(companyName = c, secondaryCategory = s)
-        case (p, company2(c, s)) => p.copy(companyName = c, secondaryCategory = s)
-      }.build(Product())
+    initialize[Prod] {
+      case (p, prod(_)) => p
+    }.andThen {
+      case (p, name(n)) => p.copy(title = n)
+    }.andThen {
+      case (p, company(c, s)) => p.copy(companyName = c, secondaryCategory = s)
+      case (p, company2(c, s)) => p.copy(companyName = c, secondaryCategory = s)
+    }.build(Product())
 
   println(
     Source.fromFile("/Users/barry/Workspaces/frank/allied/src/main/resources/detail.html", "UTF8")
