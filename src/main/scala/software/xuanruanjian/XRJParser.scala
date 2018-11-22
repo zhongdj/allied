@@ -49,7 +49,6 @@ object XRJParser extends App {
 
   val cate  = """.+?<a href=\"([^javascript|http|\"].+?)\".+?>(.+?)<.*""".r
 
-
   case class Initialized(acc: List[Cate]) extends CateState {
     override def read(line: String): CateState = line match {
       case cate(url, title) => ReadingChildren(acc, Cate(title, url))

@@ -1,0 +1,2191 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta property="og:image" content="https://img2.xuanruanjian.com/images/logo.jpg">
+	<script type="text/javascript" src="https://www.xuanruanjian.com/js/v2016/jquery1.9.js?rs=20151123"></script>
+	<title>【汽车修理管理软件_汽车维修店配件进销存管理系统哪个好】免费在线试用_软件库_选软件网</title>
+<meta name="keywords" content="汽车修理管理系统,汽车维修管理系统,汽车维修管理流程,汽车维修管理办法,汽车维修管理软件免费在线试用_软件库_选软件网" />
+<meta name="description" content="汽车修理频道为您推荐最新最全的汽车维修管理软件，详细的产品信息，免费试用体验，让您轻松找到一款适合您的软件！汽车维修管理软件免费在线试用_软件库_选软件网" />
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312" />
+<script language="javascript" type="text/javascript" charset="GB2312" src="https://www.xuanruanjian.com/js/JTongfu-1.0.0/jtongfu.pkg.js?rs=20151123"></script>
+<link href="https://www.xuanruanjian.com/js/JTongfu-1.0.0/jtongfu.pkg.css?rs=20151123" rel="stylesheet" type="text/css" />
+<link href="https://www.xuanruanjian.com/css/v2016/productList.css?rs=20151123" rel="stylesheet" type="text/css" />
+
+	<meta name="baidu-site-verification" content="ggi9u88knR" />
+	<!--<script src="https://member.xuanruanjian.com/ajaxCSSJSLoader.php?cssList=indexV2/index_zlj,indexV2/common_zlj" type="text/javascript"></script>
+	<script src="/ajaxCSSJSLoader.php?cssList=common.style2015" type="text/javascript"></script>-->
+	<style type="text/css">
+	/*此段是弹窗的样式*/
+	.r_chooseBallBox{width: 583px;height: 319px;font-family: 'microsoft yahei';}
+	.r_ballBoxTit{height:39px;line-height: 39px;padding: 0 27px 0 30px;color: #fff;font-size: 16px;position:relative;top:2px;}
+	.r_ballBoxTit1{background: url("https://img2.xuanruanjian.com/images/g_icon05.png") no-repeat;}
+	.r_ballBoxTit2{background: url("https://img2.xuanruanjian.com/images/g_icon03.png") no-repeat;}
+	.r_ballBoxTit3{background: url("https://img2.xuanruanjian.com/images/g_icon01.png") no-repeat;}
+	.r_ballBoxTit a.close{float: right;display: inline-block;background: url("https://img2.xuanruanjian.com/images/g_icon07.gif") no-repeat;width: 26px;height: 26px;margin-top: 7px;}
+	.r_ballBoxBm{height: 16px;font-size: 0;}
+	.r_ballBoxBm1{background: url("https://img2.xuanruanjian.com/images/g_icon06.png") no-repeat;}
+	.r_ballBoxBm2{background: url("https://img2.xuanruanjian.com/images/g_icon04.png") no-repeat;}
+	.r_ballBoxBm3{background: url("https://img2.xuanruanjian.com/images/g_icon02.png") no-repeat;}
+	.r_ballBoxCont{border-left: 10px solid #ffa030;border-right: 10px solid #ffa030;background-color: #fff;}
+	.r_chooseBallBox .r_ballBoxCont{height: 264px;}
+	.r_chooseBallBox1 .r_ballBoxCont{height: 382px;}
+	.r_chooseBallBox2 .r_ballBoxCont{height: 524px;}
+	.r_chooseBallBox1{width: 723px;height: 437px;}
+	.r_chooseBallBox2{width: 823px;height: 559px;}
+	#pic-vsn{
+		position: absolute;
+		top: 120px;
+		left: 0px;
+		display: block;
+		z-index: 1000;
+		background: white;
+		border: 1px solid #ccc;
+		width: 480px;
+		/* height: 150px; */
+		padding: 50px;
+	}
+	</style>
+	<script language="javascript" type="text/javascript" src="https://www.xuanruanjian.com/js/checkBeforeSendVsn.js?rs=20180921"></script>
+	<script language="javascript" type="text/javascript">
+		var CNM_FCK_BUG = false;
+		var SAAS8_MAIN_DOMAIN = 'xuanruanjian.com';
+		var URL_PROTO = 'https';
+	</script>
+	<script class="backScripts" src="/ajaxAD2015.php" type="text/javascript"></script>
+	<script src="https://www.xuanruanjian.com/js/common.func2015.js?rs=20151123" type="text/javascript" ></script>
+	<script language="javascript" type="text/javascript" src="https://www.xuanruanjian.com/js/tpl_login.js?rs=20151123"></script>
+	<script type="text/javascript" src="https://www.xuanruanjian.com/js/v2016/js.js?rs=20151123"></script>
+	<link href="https://www.xuanruanjian.com/css/v2016/commonHeaderAndFooter.css?rs=20151123" rel="stylesheet" type="text/css" />
+	<link href="https://www.xuanruanjian.com/css/xuanfukuang.css?rs=20151123" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<!--Header-->
+<div class="header">
+	<div class="head">
+		<div class="wrapper clearfix">
+			<div class="tips" id="loginTopBarPanel"><span>嗨，欢迎来到[选软件网]</span><a href="login.php" rel="nofollow">请登录</a><a href="registerSupplier.php" rel="nofollow">免费注册</a></div>
+			<script type="text/javascript">
+				tongfuTplLoginTopBar();
+			</script>
+			<!--<div class="service"><a href="javascript:;" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDA1OTU1M18xNzgzNjRfODAwMDU5NTUzXzJf');return false;">在线客服</a></div>-->
+			<div class="service"><a rel="nofollow" href="javascript:;" onclick="showBW8ChatWin()">在线客服</a></div>
+			<dl class="quick topMerchantItem" style="display:block;">
+				<dt>我是商家</dt>
+				<div style="position:absolute;">
+				<dd>
+<!--					<a rel="nofollow" href="https://member.xuanruanjian.com/user3/index.php">我的管理中心</a>-->
+					<!--<a href="https://www.xuanruanjian.com/login.php">免费店铺</a>-->
+					<a rel="nofollow" href="https://e.xuanruanjian.com/" target="_blank">商家服务</a>
+					<!--<a class="loginShow" rel="nofollow" href='https://www.xuanruanjian.com/member/productServiceCart.php' target='_blank'>我的购物车</a>
+					<a class="loginShow" rel="nofollow" href='https://www.xuanruanjian.com/member/prodServiceMyOrder.php' target='_blank'>我的订单</a>-->
+					<span class="top_trangle"></span>
+				</dd>
+				</div>
+			</dl>
+			<dl class="quick topBuyerItem" style="display:block;">
+				<dt>我是用户</dt>
+				<div style="position:absolute;">
+				<dd>
+
+					<a rel="nofollow" href="https://www.xuanruanjian.com/service.php" target="_blank">找服务</a>
+					<a rel="nofollow" href="https://www.xuanruanjian.com/art/fa.phtml" target="_blank">找解决方案</a>
+					<!--<a class="loginShow" rel="nofollow" href='https://www.xuanruanjian.com/member/productServiceCart.php' target='_blank'>我的购物车</a>
+					<a class="loginShow" rel="nofollow" href='https://www.xuanruanjian.com/member/prodServiceMyOrder.php' target='_blank'>我的订单</a>-->
+					<span class="top_trangle"></span>
+				</dd>
+				</div>
+			</dl>
+		</div>
+	</div>
+	<div class="search">
+		<div class="wrapper clearfix">
+			<div class="logo"><a href="https://www.xuanruanjian.com">选软件网</a></div>
+			<div class="searchBar">
+				<div class="clearfix">
+					<input type="text" name = "topQ" class="topQ" value=""/>
+					<input type="hidden" value="1" name="searchname" />
+					<a href="javascript:void(0);" onclick="submitSearchForm()" class="btn-search">搜索</a>
+				</div>
+				<div class="hotWords">热搜：
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=ERP%CF%B5%CD%B3" class="y">ERP系统</a>
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=%BD%F8%CF%FA%B4%E6" class="y">进销存</a>
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=OA" class="y">OA</a>
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=%BD%F0%B5%FB" class=" ">金蝶</a>
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=%D3%C3%D3%D1" class=" ">用友</a>
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=%B9%DC%BC%D2%C6%C5" class=" ">管家婆</a>
+											<a href="https://www.xuanruanjian.com/soft/search.phtml?q=%BF%C6%C2%F6" class=" ">科脉</a>
+									</div>
+			</div>
+			<div class="code"><img src="https://www.xuanruanjian.com/images/v2016/code_03.gif" alt="" /></div>
+			 <div class="scanscan">
+	         	<div class="scanTitle"><p>扫描二维码   发布需求</p></div>
+	            <div class="sanContent"><img src="https://www.xuanruanjian.com/images/qrcode128.png" alt="选软件网二维码" /></div>
+	            <div class="sanFooter"><p><em>5分钟内选型专家免费</em><br />帮您找到合适的供应商</p></div>
+	         </div>
+			<style type="text/css">
+				.roundness_chat{
+					display:none!important;
+				}
+			</style>
+			<script>
+			function showBW8ChatWin(){
+			$('.roundness_chat').click();
+			resizeBW8ChatWin();
+			}
+			function resizeBW8ChatWin(){
+			var bw8ChatWrap = $('#bw8-chatWrap'), t, l;
+			t = ($(window).height()-bw8ChatWrap.height())/2+300;
+			l = ($(window).width()-bw8ChatWrap.width())/2+500;
+			if(t < 0) t = 0;
+			if(l < 0) l = 0;
+			bw8ChatWrap.css({top:t,left:l});
+			}
+			$(window).resize(function(){
+			resizeBW8ChatWin();
+			});
+			</script>
+			<script language="javascript" type="text/javascript"  charset="gb2312" src=" https://www.bangwo8.com/osp2016/chat/js/chatInit_v3.js?bangwo8Info=OTgwMTMyOTM5YTY3ZjA5NjgwOTQxNWNhMWM5ZjExMmQ5NmQyNzY4OWI=" async="async" id="bangwo8Info"  vn="1709" customerInfo="" tagName=""></script>
+	         <script type="text/javascript">
+
+		         //5分钟找软件
+				$(".header .search .code img,.scanscan").mouseover(function(){
+					$(".scanscan").show();
+				}).mouseout(function(){
+					$(".scanscan").hide();
+				});
+
+				//搜索内容框js效果
+				$('.search .btn-search').blur(function(){
+					if($(this).val() == ''){
+						$(this).val('');
+					}
+				});
+				$('.search .btn-search').focus(function(){
+					if($(this).val() == ''){
+						$(this).val('');
+					}
+				});
+				//按enter键提交
+				$('.search .topQ').keyup(function(event){
+					var keycode = event.which;
+				    if (keycode == 13) {
+				        submitSearchForm();
+				    }
+				});
+				//提交搜索结果
+				function submitSearchForm(){
+					var qValue = $('[name=topQ]').val();
+					var topSeOpt = $('[name=searchname]').val();
+					// make url
+					if( qValue == ''){
+						return false;
+					}
+					if( topSeOpt == 1 ){
+						var searchUrl = '/searchGoto.php?bc=utf-8&q=' + encodeURIComponent(qValue);
+					}else{
+						var searchUrl = '/serviceSearch.php?bc=utf-8&keyWords=' + encodeURIComponent(encodeURI(qValue));
+					}
+					document.location = searchUrl;
+				}
+				$('.kefugif').mouseover(function(){
+					$(this).hide();
+					$('.kefujpg').show();
+					$('.kefupng').show();
+				})
+				$('.kefujpg').mouseout(function(){
+					$(this).hide();
+					$('.kefupng').hide();
+					$('.kefugif').show();
+				})
+				$('.kefupng').mouseout(function(){
+					$(this).hide();
+					$('.kefujpg').hide();
+					$('.kefugif').show();
+				})
+				$('.zixun').mouseover(function(){
+					$('.zixunzi').show();
+				})
+				$('.zixun').mouseout(function(){
+					$('.zixunzi').hide();
+				})
+				/* 根据用户登录判断是否展示购物车及订单
+				var usrId = 0;
+				if(usrId > 0){
+					$(".header .head .quick dd a.loginShow").show();
+				}else{
+					$(".header .head .quick dd a.loginShow").hide();
+				}
+				*/
+
+			</script>
+			<div class="tel">400-900-9878</div>
+		</div>
+	</div>
+</div>
+<!--Header End-->
+<!--con start-->
+<div class="con">
+	<div class="nav">
+	<div class="wrapper clearfix">
+		<div class="subNav">
+			<span class="l on">按领域分</span>
+			<span>按行业分</span>
+		</div>
+		<div class="bNav">
+
+			<a href="/" target="_blank">首页</a>
+			 <a href="/art/index.phtml" target="_blank">资讯</a>
+			<a href="/brand.phtml" target="_blank">品牌大全</a>
+           	<!--<a href="/service.php" target="_blank">软件服务</a>-->
+            <a href="/indexJoinUs.phtml" target="_blank">渠道加盟</a>
+            <a href="/zt.html" target="_blank">专题</a>
+			<a href="/openPlatform.php" target="_blank">开放平台</a>
+		</div>
+		<div class="more"><a href="https://www.xuanruanjian.com/registerSupplier.php" target="_blank">商家免费入驻</a></div>
+	</div>
+</div>
+<div class="banner h0">
+    <ul class="cateList">
+      		<li>
+			<dl>
+				<dt><a href="/tag/erp/" target="_blank">ERP系统</a><a href="/tag/caiwu/"target="_blank">财务管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/erp/" target="_blank">ERP系统</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag10212.phtml" target="_blank">纺织ERP</a>
+														<a href="/soft/tag10214.phtml" target="_blank">印染ERP</a>
+														<a href="/soft/tag6073.phtml" target="_blank">印刷业ERP</a>
+														<a href="/soft/tag6075.phtml" target="_blank">商贸ERP</a>
+														<a href="/soft/tag6071.phtml" target="_blank">门窗业ERP</a>
+														<a href="/soft/tag6069.phtml" target="_blank">生产制造ERP</a>
+														<a href="/soft/tag5877.phtml" target="_blank">通用ERP系统</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/caiwu/" target="_blank">财务管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5923.phtml" target="_blank">资金管理</a>
+															<a href="/soft/tag5929.phtml" target="_blank">财税一体化</a>
+															<a href="/soft/tag10001.phtml" target="_blank">在线财务</a>
+															<a href="/soft/tag10147.phtml" target="_blank">网上报销</a>
+															<a href="/soft/tag10182.phtml" target="_blank">代理记账</a>
+															<a href="/soft/tag5785.phtml" target="_blank">财务分析</a>
+															<a href="/soft/tag5777.phtml" target="_blank">应收应付管理</a>
+															<a href="/soft/tag5783.phtml" target="_blank">报表管理</a>
+															<a href="/soft/tag5771.phtml" target="_blank">账务处理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/jxc/" target="_blank">进销存管理</a><a href="/tag/produce/"target="_blank">生产制造</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/jxc/" target="_blank">进销存管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5795.phtml" target="_blank">委外管理</a>
+														<a href="/soft/tag5793.phtml" target="_blank">存货核算</a>
+														<a href="/soft/tag5791.phtml" target="_blank">库存管理</a>
+														<a href="/soft/tag5789.phtml" target="_blank">销售管理</a>
+														<a href="/soft/tag5787.phtml" target="_blank">采购管理</a>
+														<a href="/soft/tag10155.phtml" target="_blank">在线进销存</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/produce/" target="_blank">生产制造</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5843.phtml" target="_blank">设备管理</a>
+															<a href="/soft/tag10208.phtml" target="_blank">生产排单</a>
+															<a href="/soft/tag5859.phtml" target="_blank">BOM物料清单</a>
+															<a href="/soft/tag5857.phtml" target="_blank">主生产计划</a>
+															<a href="/soft/tag5855.phtml" target="_blank">产能管理</a>
+															<a href="/soft/tag5853.phtml" target="_blank">需求规划</a>
+															<a href="/soft/tag5851.phtml" target="_blank">生产订单</a>
+															<a href="/soft/tag5849.phtml" target="_blank">车间管理</a>
+															<a href="/soft/tag5847.phtml" target="_blank">工序委外</a>
+															<a href="/soft/tag5845.phtml" target="_blank">工程变更</a>
+															<a href="/soft/tag10210.phtml" target="_blank">MRP</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag5919.phtml" target="_blank">移动应用</a><a href="/tag/hr/"target="_blank">人力资源</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5919.phtml" target="_blank">移动应用</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag6083.phtml" target="_blank">移动应用安全</a>
+														<a href="/soft/tag10145.phtml" target="_blank">移动报销</a>
+														<a href="/soft/tag10173.phtml" target="_blank">移动医疗</a>
+														<a href="/soft/tag6081.phtml" target="_blank">移动营销</a>
+														<a href="/soft/tag6079.phtml" target="_blank">移动考勤</a>
+														<a href="/soft/tag6077.phtml" target="_blank">移动CRM</a>
+														<a href="/soft/tag6057.phtml" target="_blank">移动OA办公</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/hr/" target="_blank">人力资源</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5809.phtml" target="_blank">人事合同管理</a>
+															<a href="/soft/tag5815.phtml" target="_blank">保险福利管理</a>
+															<a href="/soft/tag10202.phtml" target="_blank">人才测评</a>
+															<a href="/soft/tag5811.phtml" target="_blank">考勤管理</a>
+															<a href="/soft/tag5807.phtml" target="_blank">招聘管理</a>
+															<a href="/soft/tag5805.phtml" target="_blank">培训管理</a>
+															<a href="/soft/tag5803.phtml" target="_blank">绩效管理</a>
+															<a href="/soft/tag5817.phtml" target="_blank">薪资管理</a>
+															<a href="/soft/tag5819.phtml" target="_blank">人事管理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/business/" target="_blank">商业智能</a><a href="/tag/remote/"target="_blank">合同管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/business/" target="_blank">商业智能</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5875.phtml" target="_blank">商业智能分析</a>
+														<a href="/soft/tag5955.phtml" target="_blank">看板系统</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/remote/" target="_blank">合同管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5889.phtml" target="_blank">合同管理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/oa/" target="_blank">协同OA</a><a href="/tag/member/"target="_blank">会员管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/oa/" target="_blank">协同OA</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5861.phtml" target="_blank">办公系统</a>
+														<a href="/soft/tag10176.phtml" target="_blank">移动OA</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/member/" target="_blank">会员管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5879.phtml" target="_blank">会员管理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/crm/" target="_blank">CRM客户管理</a><a href="/tag/project/"target="_blank">项目管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/crm/" target="_blank">CRM客户管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5841.phtml" target="_blank">销售管理</a>
+														<a href="/soft/tag6033.phtml" target="_blank">在线CRM</a>
+														<a href="/soft/tag5839.phtml" target="_blank">服务管理</a>
+														<a href="/soft/tag5837.phtml" target="_blank">客户管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/project/" target="_blank">项目管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5873.phtml" target="_blank">项目管理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/scm/" target="_blank">预算管理</a><a href="/tag/zichan/"target="_blank">资产管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/scm/" target="_blank">预算管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5871.phtml" target="_blank">费用预算</a>
+														<a href="/soft/tag5869.phtml" target="_blank">全面预算</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/zichan/" target="_blank">资产管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5831.phtml" target="_blank">低值易耗品</a>
+															<a href="/soft/tag5829.phtml" target="_blank">维护管理</a>
+															<a href="/soft/tag5827.phtml" target="_blank">运行管理</a>
+															<a href="/soft/tag5825.phtml" target="_blank">资产租赁管理</a>
+															<a href="/soft/tag5823.phtml" target="_blank">资产使用管理</a>
+															<a href="/soft/tag5821.phtml" target="_blank">固定资产</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/quality/" target="_blank">质量管理</a><a href="/tag/dianzi/"target="_blank">电商平台</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/quality/" target="_blank">质量管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5881.phtml" target="_blank">质量管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/dianzi/" target="_blank">电商平台</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5883.phtml" target="_blank">电商平台</a>
+															<a href="/soft/tag10206.phtml" target="_blank">OMS</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/monitor/" target="_blank">监控管理</a><a href="/tag/book/"target="_blank">图书管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/monitor/" target="_blank">监控管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5885.phtml" target="_blank">监控管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/book/" target="_blank">图书管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5891.phtml" target="_blank">图书管理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/file/" target="_blank">文档管理</a><a href="/tag/procedure/"target="_blank">流程管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/file/" target="_blank">文档管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag6087.phtml" target="_blank">文档查找</a>
+														<a href="/soft/tag6089.phtml" target="_blank">文档协同管理</a>
+														<a href="/soft/tag6091.phtml" target="_blank">文档版本管理</a>
+														<a href="/soft/tag6095.phtml" target="_blank">ISO文控管理</a>
+														<a href="/soft/tag10184.phtml" target="_blank">档案管理</a>
+														<a href="/soft/tag5833.phtml" target="_blank">文档安全管理</a>
+														<a href="/soft/tag5835.phtml" target="_blank">文档存储管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/procedure/" target="_blank">流程管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5893.phtml" target="_blank">流程管理</a>
+															<a href="/soft/tag10186.phtml" target="_blank">BPM</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/cad/" target="_blank">分销零售</a><a href="/tag/kaifa/"target="_blank">开发平台</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/cad/" target="_blank">分销零售</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag5895.phtml" target="_blank">分销管理</a>
+														<a href="/soft/tag5999.phtml" target="_blank">零售管理</a>
+														<a href="/soft/tag10175.phtml" target="_blank">微信分销</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/kaifa/" target="_blank">开发平台</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5899.phtml" target="_blank">开发平台</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag5947.phtml" target="_blank">客服管理</a><a href="/soft/tag6029.phtml"target="_blank">条形码管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5947.phtml" target="_blank">客服管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag6059.phtml" target="_blank">客服管理系统</a>
+														<a href="/soft/tag10188.phtml" target="_blank">呼叫中心</a>
+														<a href="/soft/tag10190.phtml" target="_blank">在线客服</a>
+														<a href="/soft/tag10192.phtml" target="_blank">工单管理</a>
+														<a href="/soft/tag10194.phtml" target="_blank">售后服务</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag6029.phtml" target="_blank">条形码管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10125.phtml" target="_blank">条形码管理</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag5953.phtml" target="_blank">成本管理</a><a href="/soft/tag5951.phtml"target="_blank">客商管理平台</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5953.phtml" target="_blank">成本管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag10123.phtml" target="_blank">成本管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5951.phtml" target="_blank">客商管理平台</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10127.phtml" target="_blank">客商管理平台</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag5949.phtml" target="_blank">CAD/CAE</a><a href="/soft/tag5931.phtml"target="_blank">视频会议</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5949.phtml" target="_blank">CAD/CAE</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag10121.phtml" target="_blank">CAD/CAE</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5931.phtml" target="_blank">视频会议</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10129.phtml" target="_blank">视频会议</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag5907.phtml" target="_blank">进出口管理</a><a href="/tag/tyother/"target="_blank">其他</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5907.phtml" target="_blank">进出口管理</a></div>
+						<div class="c-detail">
+														<a href="/soft/tag10131.phtml" target="_blank">进出口管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/tyother/" target="_blank">其他</a></div>
+						<div class="c-detail">
+															<a href="/tag/safe/" target="_blank">安全加密</a>
+															<a href="/tag/bid/" target="_blank">招投标</a>
+															<a href="/soft/tag10157.phtml" target="_blank">主数据管理</a>
+															<a href="/soft/tag5945.phtml" target="_blank">上网行为管理</a>
+															<a href="/soft/tag5925.phtml" target="_blank">票据管理</a>
+															<a href="/soft/tag5921.phtml" target="_blank">发票管理</a>
+															<a href="/soft/tag5915.phtml" target="_blank">远程管理</a>
+															<a href="/soft/tag5905.phtml" target="_blank">风险管理</a>
+															<a href="/soft/tag5903.phtml" target="_blank">PLM产品生命周期</a>
+															<a href="/soft/tag6009.phtml" target="_blank">其他软件</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+		    </ul>
+    <ul class="cateList" style="display:none;">
+        		<li>
+			<dl>
+				<dt><a href="/tag/shop/"target="_blank">商超零售</a><a href="/tag/clothes/" target="_blank">服装鞋帽</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/shop/" target="_blank">商超零售</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5542.phtml" target="_blank">超市</a>
+															<a href="/soft/tag5764.phtml" target="_blank">音像</a>
+															<a href="/soft/tag5762.phtml" target="_blank">珠宝</a>
+															<a href="/soft/tag5760.phtml" target="_blank">购物中心</a>
+															<a href="/soft/tag5560.phtml" target="_blank">玩具</a>
+															<a href="/soft/tag5558.phtml" target="_blank">化妆品</a>
+															<a href="/soft/tag5556.phtml" target="_blank">糕点</a>
+															<a href="/soft/tag5554.phtml" target="_blank">母婴</a>
+															<a href="/soft/tag5552.phtml" target="_blank">连锁店</a>
+															<a href="/soft/tag5550.phtml" target="_blank">礼品店</a>
+															<a href="/soft/tag5548.phtml" target="_blank">专卖店</a>
+															<a href="/soft/tag5546.phtml" target="_blank">便利店</a>
+															<a href="/soft/tag5765.phtml" target="_blank">网店</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/clothes/" target="_blank">服装鞋帽</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10178.phtml" target="_blank">纺织面料</a>
+															<a href="/soft/tag5534.phtml" target="_blank">服装鞋帽连锁</a>
+															<a href="/soft/tag5536.phtml" target="_blank">饰品专卖</a>
+															<a href="/soft/tag5540.phtml" target="_blank">鞋厂</a>
+															<a href="/soft/tag5538.phtml" target="_blank">鞋品专卖</a>
+															<a href="/soft/tag5532.phtml" target="_blank">服装厂</a>
+															<a href="/soft/tag5526.phtml" target="_blank">服装专卖</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/bsn/"target="_blank">美容美发</a><a href="/tag/food/" target="_blank">餐饮酒店</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/bsn/" target="_blank">美容美发</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5614.phtml" target="_blank">养生会馆</a>
+															<a href="/soft/tag5616.phtml" target="_blank">SPA会馆</a>
+															<a href="/soft/tag5618.phtml" target="_blank">美体会馆</a>
+															<a href="/soft/tag5620.phtml" target="_blank">美发店</a>
+															<a href="/soft/tag5622.phtml" target="_blank">美容店</a>
+															<a href="/soft/tag5624.phtml" target="_blank">美容美发连锁</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/food/" target="_blank">餐饮酒店</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5498.phtml" target="_blank">快餐店</a>
+															<a href="/soft/tag5502.phtml" target="_blank">餐馆</a>
+															<a href="/soft/tag5508.phtml" target="_blank">中小型餐厅</a>
+															<a href="/soft/tag5512.phtml" target="_blank">大型餐厅</a>
+															<a href="/soft/tag5518.phtml" target="_blank">酒店餐饮</a>
+															<a href="/soft/tag5516.phtml" target="_blank">星级酒店</a>
+															<a href="/soft/tag5522.phtml" target="_blank">快捷酒店</a>
+															<a href="/soft/tag5520.phtml" target="_blank">旅馆</a>
+															<a href="/soft/tag5524.phtml" target="_blank">小型宾馆</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/car/"target="_blank">汽修汽配</a><a href="/tag/house/" target="_blank">房地产</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/car/" target="_blank">汽修汽配</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5596.phtml" target="_blank">汽车修理</a>
+															<a href="/soft/tag5598.phtml" target="_blank">汽车美容</a>
+															<a href="/soft/tag5600.phtml" target="_blank">汽车装饰</a>
+															<a href="/soft/tag5602.phtml" target="_blank">汽车认证</a>
+															<a href="/soft/tag5604.phtml" target="_blank">汽车信贷</a>
+															<a href="/soft/tag5606.phtml" target="_blank">汽车4S店</a>
+															<a href="/soft/tag5913.phtml" target="_blank">汽车配件</a>
+															<a href="/soft/tag10149.phtml" target="_blank">电动车</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/house/" target="_blank">房地产</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5634.phtml" target="_blank">房屋销售</a>
+															<a href="/soft/tag5636.phtml" target="_blank">房屋租赁</a>
+															<a href="/soft/tag5638.phtml" target="_blank">房屋中介</a>
+															<a href="/soft/tag5640.phtml" target="_blank">房产中介</a>
+															<a href="/soft/tag5969.phtml" target="_blank">客户服务</a>
+															<a href="/soft/tag6067.phtml" target="_blank">户型图设计</a>
+															<a href="/soft/tag10196.phtml" target="_blank">房地产售楼</a>
+															<a href="/soft/tag10198.phtml" target="_blank">电子开盘</a>
+															<a href="/soft/tag10200.phtml" target="_blank">招商租赁</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/wujin/"target="_blank">五金建材</a><a href="/soft/tag6061.phtml" target="_blank">物业管理</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/wujin/" target="_blank">五金建材</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5642.phtml" target="_blank">机械</a>
+															<a href="/soft/tag5644.phtml" target="_blank">家具</a>
+															<a href="/soft/tag5646.phtml" target="_blank">建材</a>
+															<a href="/soft/tag5912.phtml" target="_blank">五金</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag6061.phtml" target="_blank">物业管理</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag6063.phtml" target="_blank">高档小区</a>
+															<a href="/soft/tag6065.phtml" target="_blank">停车场</a>
+															<a href="/soft/tag10161.phtml" target="_blank">住宅物业</a>
+															<a href="/soft/tag10163.phtml" target="_blank">商业物业</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/store/"target="_blank">仓储物流</a><a href="/tag/zhizao/" target="_blank">制造加工</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/store/" target="_blank">仓储物流</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5648.phtml" target="_blank">仓库管理</a>
+															<a href="/soft/tag5650.phtml" target="_blank">配送运输</a>
+															<a href="/soft/tag5652.phtml" target="_blank">货代</a>
+															<a href="/soft/tag5656.phtml" target="_blank">保管</a>
+															<a href="/soft/tag10204.phtml" target="_blank">WMS</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/zhizao/" target="_blank">制造加工</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5744.phtml" target="_blank">橡胶皮带加工</a>
+															<a href="/soft/tag5746.phtml" target="_blank">模具制造</a>
+															<a href="/soft/tag5748.phtml" target="_blank">皮具加工</a>
+															<a href="/soft/tag5750.phtml" target="_blank">纸箱制造</a>
+															<a href="/soft/tag5752.phtml" target="_blank">电子加工  </a>
+															<a href="/soft/tag5756.phtml" target="_blank">纺织生产</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/yiliao/"target="_blank">医药卫生</a><a href="/tag/rtn/" target="_blank">装饰装修</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/yiliao/" target="_blank">医药卫生</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5562.phtml" target="_blank">体检中心</a>
+															<a href="/soft/tag10169.phtml" target="_blank">养老信息化</a>
+															<a href="/soft/tag10167.phtml" target="_blank">民营医院</a>
+															<a href="/soft/tag10165.phtml" target="_blank">口腔门诊</a>
+															<a href="/soft/tag5578.phtml" target="_blank">医疗器械设备</a>
+															<a href="/soft/tag5576.phtml" target="_blank">三甲医院</a>
+															<a href="/soft/tag5574.phtml" target="_blank">二甲医院</a>
+															<a href="/soft/tag5572.phtml" target="_blank">一甲医院</a>
+															<a href="/soft/tag5570.phtml" target="_blank">医疗保健机构</a>
+															<a href="/soft/tag5568.phtml" target="_blank">门诊</a>
+															<a href="/soft/tag5566.phtml" target="_blank">宠物医院</a>
+															<a href="/soft/tag5564.phtml" target="_blank">药店</a>
+															<a href="/soft/tag10171.phtml" target="_blank">中医养生</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/rtn/" target="_blank">装饰装修</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5658.phtml" target="_blank">装修</a>
+															<a href="/soft/tag5660.phtml" target="_blank">装饰</a>
+															<a href="/soft/tag5662.phtml" target="_blank">公装</a>
+															<a href="/soft/tag5664.phtml" target="_blank">家装</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/yule/"target="_blank">休闲娱乐</a><a href="/tag/mobile/" target="_blank">手机通讯</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/yule/" target="_blank">休闲娱乐</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5730.phtml" target="_blank">台球棋牌</a>
+															<a href="/soft/tag5732.phtml" target="_blank">茶楼</a>
+															<a href="/soft/tag5734.phtml" target="_blank">度假村</a>
+															<a href="/soft/tag5736.phtml" target="_blank">游乐场</a>
+															<a href="/soft/tag5738.phtml" target="_blank">KTV</a>
+															<a href="/soft/tag5769.phtml" target="_blank">健身房</a>
+															<a href="/soft/tag5985.phtml" target="_blank">桑拿足疗洗浴</a>
+															<a href="/soft/tag6001.phtml" target="_blank">酒吧</a>
+															<a href="/soft/tag6003.phtml" target="_blank">体育场馆</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/mobile/" target="_blank">手机通讯</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5666.phtml" target="_blank">手机店</a>
+															<a href="/soft/tag5668.phtml" target="_blank">无线通讯</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/dianqi/"target="_blank">电器家电</a><a href="/tag/finance/" target="_blank">金融保险</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/dianqi/" target="_blank">电器家电</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5670.phtml" target="_blank">数码摄像</a>
+															<a href="/soft/tag5672.phtml" target="_blank">售后服务</a>
+															<a href="/soft/tag5674.phtml" target="_blank">小型家电</a>
+															<a href="/soft/tag5676.phtml" target="_blank">电子电器</a>
+															<a href="/soft/tag5678.phtml" target="_blank">大型家电</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/finance/" target="_blank">金融保险</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5626.phtml" target="_blank">银行业</a>
+															<a href="/soft/tag5628.phtml" target="_blank">保险业</a>
+															<a href="/soft/tag5630.phtml" target="_blank">证券业</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/letter/"target="_blank">通信工程</a><a href="/tag/nonglin/" target="_blank">农林牧渔</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/letter/" target="_blank">通信工程</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5722.phtml" target="_blank">设备安装</a>
+															<a href="/soft/tag5937.phtml" target="_blank">系统集成</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/nonglin/" target="_blank">农林牧渔</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5680.phtml" target="_blank">农资</a>
+															<a href="/soft/tag5682.phtml" target="_blank">水产养殖</a>
+															<a href="/soft/tag5684.phtml" target="_blank">林业</a>
+															<a href="/soft/tag5997.phtml" target="_blank">畜牧</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/trade/"target="_blank">外贸行业</a><a href="/tag/oil/" target="_blank">石油化工</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/trade/" target="_blank">外贸行业</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5724.phtml" target="_blank">商贸流通</a>
+															<a href="/soft/tag5726.phtml" target="_blank">加工制造</a>
+															<a href="/soft/tag5728.phtml" target="_blank">工贸结合</a>
+															<a href="/soft/tag5973.phtml" target="_blank">外贸管理</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/oil/" target="_blank">石油化工</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5716.phtml" target="_blank">加油站</a>
+															<a href="/soft/tag5718.phtml" target="_blank">油汽生产</a>
+															<a href="/soft/tag5720.phtml" target="_blank">石油加工</a>
+															<a href="/soft/tag5975.phtml" target="_blank">油田管理</a>
+															<a href="/soft/tag5977.phtml" target="_blank">化工生产</a>
+															<a href="/soft/tag5979.phtml" target="_blank">油品销售</a>
+															<a href="/soft/tag5981.phtml" target="_blank">原油储运</a>
+															<a href="/soft/tag5983.phtml" target="_blank">采油工程</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/water/"target="_blank">水利水电</a><a href="/tag/chuban/" target="_blank">出版印刷</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/water/" target="_blank">水利水电</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5706.phtml" target="_blank">水电站</a>
+															<a href="/soft/tag5708.phtml" target="_blank">设计院</a>
+															<a href="/soft/tag5710.phtml" target="_blank">水利发电</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/chuban/" target="_blank">出版印刷</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5686.phtml" target="_blank">编务系统</a>
+															<a href="/soft/tag5688.phtml" target="_blank">出版系统</a>
+															<a href="/soft/tag5959.phtml" target="_blank">发行系统</a>
+															<a href="/soft/tag5989.phtml" target="_blank">结算系统</a>
+															<a href="/soft/tag5991.phtml" target="_blank">网上书店系统</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/education/"target="_blank">教育培训</a><a href="/tag/keyan/" target="_blank">科研行政</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/education/" target="_blank">教育培训</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10159.phtml" target="_blank">在线考试平台</a>
+															<a href="/soft/tag5692.phtml" target="_blank">培训学校</a>
+															<a href="/soft/tag5694.phtml" target="_blank">幼儿园</a>
+															<a href="/soft/tag5696.phtml" target="_blank">大学</a>
+															<a href="/soft/tag5700.phtml" target="_blank">中小学</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/tag/keyan/" target="_blank">科研行政</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag5702.phtml" target="_blank">行政事务</a>
+															<a href="/soft/tag5704.phtml" target="_blank">科研实验</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag5943.phtml"target="_blank">食品行业</a><a href="/soft/tag6039.phtml" target="_blank">建筑行业</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5943.phtml" target="_blank">食品行业</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag6025.phtml" target="_blank">其它食品</a>
+															<a href="/soft/tag6011.phtml" target="_blank">畜产品</a>
+															<a href="/soft/tag6013.phtml" target="_blank">水产品</a>
+															<a href="/soft/tag6015.phtml" target="_blank">发酵制品</a>
+															<a href="/soft/tag6017.phtml" target="_blank">粮油制品</a>
+															<a href="/soft/tag6019.phtml" target="_blank">果蔬行业</a>
+															<a href="/soft/tag6021.phtml" target="_blank">饮料行业</a>
+															<a href="/soft/tag6023.phtml" target="_blank">糖果行业</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag6039.phtml" target="_blank">建筑行业</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10137.phtml" target="_blank">建筑行业</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/soft/tag6027.phtml"target="_blank">文化传媒</a><a href="/soft/tag5927.phtml" target="_blank">烟草行业</a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag6027.phtml" target="_blank">文化传媒</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10135.phtml" target="_blank">文化传媒</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="/soft/tag5927.phtml" target="_blank">烟草行业</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag10133.phtml" target="_blank">烟草行业</a>
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+				<li>
+			<dl>
+				<dt><a href="/tag/hyother/"target="_blank">其他</a><a href="" target="_blank"></a></dt>
+				<dd>
+					<div class="cate">
+						<div class="tit"><a href="/tag/hyother/" target="_blank">其他</a></div>
+						<div class="c-detail">
+															<a href="/soft/tag6031.phtml" target="_blank">其他行业</a>
+													</div>
+						<div class="line"></div>
+					</div>
+					<div class="cate">
+						<div class="tit"><a href="" target="_blank"></a></div>
+						<div class="c-detail">
+													</div>
+					</div>
+				</dd>
+			</dl>
+		</li>
+		    </ul>
+</div>	<div class="crumbs"><div class="wrapper">您的位置：<a href="/">首页</a> &gt; <a href='/soft/tag58.phtml' >汽修汽配</a> &gt; <a href='/soft/tag5596.phtml' >汽车修理</a></div></div>
+	<div class="list-con">
+		<div class="wrapper clearfix">
+			<div class="left">
+				<div class="sub-items ">
+							                <a href="/soft/tag10149.phtml" >电动车</a>
+		 					                <a href="/soft/tag5913.phtml" >汽车配件</a>
+		 					                <a href="/soft/tag5606.phtml" >汽车4S店</a>
+		 					                <a href="/soft/tag5604.phtml" >汽车信贷</a>
+		 					                <a href="/soft/tag5602.phtml" >汽车认证</a>
+		 					                <a href="/soft/tag5600.phtml" >汽车装饰</a>
+		 					                <a href="/soft/tag5598.phtml" >汽车美容</a>
+		 					                <a href="/soft/tag5596.phtml" class="on">汽车修理</a>
+		 							</div>
+				<script type="text/javascript">
+					$(".gengduo").click(function(){
+						$(".list-con .content").show();
+					});
+					$(".list-con .close").click(function(){
+						$(".list-con .content").hide();
+					});
+				</script>
+				<!-- 筛选-->
+				<div class="appFilter">
+										<div class="f-item clearfix">
+						<div class="t">品牌</div>
+						<div class="opts">
+							<div class="opt-w brand clearfix">
+								<a href="/soft/tag5596.phtml">不限</a>
+																									<a href="/soft/tag5596_EABFA1C5773DB.phtml" >全智通</a>
+																																	<a href="/soft/tag5596_EABFA1C5119DB.phtml" >金迪</a>
+																																	<a href="/soft/tag5596_EABFA1C655DB.phtml" >管家婆</a>
+																																	<a href="/soft/tag5596_EABFA1C1073DB.phtml" >捷成</a>
+																																	<a href="/soft/tag5596_EABFA1C5240DB.phtml" >升达软件</a>
+																																	<a href="/soft/tag5596_EABFA1C841DB.phtml" >辛巴软件</a>
+																																	<a href="/soft/tag5596_EABFA1C3377DB.phtml" >博士德</a>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							</div>
+							<a href="javascript:;" class="btn-more moreBrand">+更多</a>						</div>
+					</div>
+
+										<div class="f-item clearfix">
+						<div class="t">功能模块</div>
+						<div class="opts">
+							<div class="opt-w clearfix">
+								<a href="/soft/tag5596.phtml">不限</a>
+																	<a href="/soft/tag5596_EA228C230DBFAB.phtml" >财务管理</a>
+																	<a href="/soft/tag5596_EA228C232DBFAB.phtml" >人力资源管理</a>
+																	<a href="/soft/tag5596_EA228C234DBFAB.phtml" >资产管理</a>
+																	<a href="/soft/tag5596_EA228C236DBFAB.phtml" >合同管理</a>
+																	<a href="/soft/tag5596_EA228C238DBFAB.phtml" >进销存管理</a>
+																	<a href="/soft/tag5596_EA228C240DBFAB.phtml" >生产制造管理</a>
+																	<a href="/soft/tag5596_EA228C635DBFAB.phtml" >会员管理</a>
+																	<a href="/soft/tag5596_EA228C797DBFAB.phtml" >售后服务</a>
+															</div>
+													</div>
+					</div>
+										<div class="f-item clearfix">
+						<div class="t">其他功能模块</div>
+						<div class="opts">
+							<div class="opt-w clearfix">
+								<a href="/soft/tag5596.phtml">不限</a>
+																	<a href="/soft/tag5596_EA749C751DBFAB.phtml" >汽修管理</a>
+																	<a href="/soft/tag5596_EA749C753DBFAB.phtml" >汽配管理</a>
+																	<a href="/soft/tag5596_EA749C799DBFAB.phtml" >信贷管理</a>
+																	<a href="/soft/tag5596_EA749C801DBFAB.phtml" >汽车美容</a>
+															</div>
+													</div>
+					</div>
+										<div class="f-item clearfix">
+						<div class="t">适用企业</div>
+						<div class="opts">
+							<div class="opt-w clearfix">
+								<a href="/soft/tag5596.phtml">不限</a>
+																	<a href="/soft/tag5596_EA16C18DBFAB.phtml" >集团化企业</a>
+																	<a href="/soft/tag5596_EA16C20DBFAB.phtml" >事业行政单位</a>
+																	<a href="/soft/tag5596_EA16C22DBFAB.phtml" >大型企业</a>
+																	<a href="/soft/tag5596_EA16C26DBFAB.phtml" >中小型企业</a>
+															</div>
+													</div>
+					</div>
+										<div class="f-item clearfix">
+						<div class="t">软件架构</div>
+						<div class="opts">
+							<div class="opt-w clearfix">
+								<a href="/soft/tag5596.phtml">不限</a>
+																	<a href="/soft/tag5596_EA32C38DBFAB.phtml" >C/S架构</a>
+																	<a href="/soft/tag5596_EA32C36DBFAB.phtml" >B/S架构</a>
+																	<a href="/soft/tag5596_EA32C807DBFAB.phtml" >手机应用</a>
+																	<a href="/soft/tag5596_EA32C885DBFAB.phtml" >SAAS</a>
+																	<a href="/soft/tag5596_EA32C34DBFAB.phtml" >均有</a>
+															</div>
+													</div>
+					</div>
+										<div class="f-item clearfix">
+						<div class="t">价格区间</div>
+						<div class="opts">
+							<div class="opt-w clearfix">
+								<a href="/soft/tag5596.phtml">不限</a>
+																	<a href="/soft/tag5596_EA4C897DBFAB.phtml" >1000元以下</a>
+																	<a href="/soft/tag5596_EA4C901DBFAB.phtml" >1000-5000元</a>
+																	<a href="/soft/tag5596_EA4C10DBFAB.phtml" >5000-10000元</a>
+																	<a href="/soft/tag5596_EA4C899DBFAB.phtml" >1万-5万元</a>
+																	<a href="/soft/tag5596_EA4C903DBFAB.phtml" >5万-10万元</a>
+																	<a href="/soft/tag5596_EA4C905DBFAB.phtml" >10万-50万元</a>
+																	<a href="/soft/tag5596_EA4C907DBFAB.phtml" >50万-100万元</a>
+																	<a href="/soft/tag5596_EA4C909DBFAB.phtml" >100万元以上</a>
+															</div>
+							<a href="javascript:;" class="btn-more morePrice">+更多</a>						</div>
+					</div>
+										<!--					价格区间开始                         -->
+																																																							<div class="priceChoice">
+						<div class="btn-close"></div>
+						<div class="t">价格区间：</div>
+						<div class="a-wrapper clearfix">
+							<a href="/soft/tag5596.phtml">全部</a>
+															<a href="/soft/tag5596_EA4C897DBFAB.phtml" pnum = 0 >1000元以下</a>
+															<a href="/soft/tag5596_EA4C901DBFAB.phtml" pnum = 1 >1000-5000元</a>
+															<a href="/soft/tag5596_EA4C10DBFAB.phtml" pnum = 2 >5000-10000元</a>
+															<a href="/soft/tag5596_EA4C899DBFAB.phtml" pnum = 3 >1万-5万元</a>
+															<a href="/soft/tag5596_EA4C903DBFAB.phtml" pnum = 4 >5万-10万元</a>
+															<a href="/soft/tag5596_EA4C905DBFAB.phtml" pnum = 5 >10万-50万元</a>
+															<a href="/soft/tag5596_EA4C907DBFAB.phtml" pnum = 6 >50万-100万元</a>
+															<a href="/soft/tag5596_EA4C909DBFAB.phtml" pnum = 7 >100万元以上</a>
+													</div>
+					</div>
+															<!--					价格区间结束                         -->
+										<div class="moreChoice brandChoice">
+						<div class="btn-close"></div>
+						<div class="t">品  牌：</div>
+						<div class="a-wrapper clearfix">
+							<a href="/soft/tag5596.phtml">全部</a>
+															<a href="/soft/tag5596_EABFA1C5773DB.phtml" >全智通</a>
+															<a href="/soft/tag5596_EABFA1C5119DB.phtml" >金迪</a>
+															<a href="/soft/tag5596_EABFA1C655DB.phtml" >管家婆</a>
+															<a href="/soft/tag5596_EABFA1C1073DB.phtml" >捷成</a>
+															<a href="/soft/tag5596_EABFA1C5240DB.phtml" >升达软件</a>
+															<a href="/soft/tag5596_EABFA1C841DB.phtml" >辛巴软件</a>
+															<a href="/soft/tag5596_EABFA1C3377DB.phtml" >博士德</a>
+															<a href="/soft/tag5596_EABFA1C6581DB.phtml" >千江</a>
+															<a href="/soft/tag5596_EABFA1C6247DB.phtml" >比弗</a>
+															<a href="/soft/tag5596_EABFA1C653DB.phtml" >金蝶</a>
+															<a href="/soft/tag5596_EABFA1C855DB.phtml" >笛佛</a>
+															<a href="/soft/tag5596_EABFA1C669DB.phtml" >美萍</a>
+															<a href="/soft/tag5596_EABFA1C759DB.phtml" >鼎捷</a>
+															<a href="/soft/tag5596_EABFA1C839DB.phtml" >至商</a>
+															<a href="/soft/tag5596_EABFA1C7656DB.phtml" >盛唐科技</a>
+															<a href="/soft/tag5596_EABFA1C7650DB.phtml" >展创软件</a>
+															<a href="/soft/tag5596_EABFA1C7632DB.phtml" >车保无忧</a>
+															<a href="/soft/tag5596_EABFA1C7574DB.phtml" >众友软件</a>
+															<a href="/soft/tag5596_EABFA1C7420DB.phtml" >银通佳软</a>
+															<a href="/soft/tag5596_EABFA1C7375DB.phtml" >慧佳</a>
+															<a href="/soft/tag5596_EABFA1C7323DB.phtml" >吉利</a>
+															<a href="/soft/tag5596_EABFA1C7261DB.phtml" >富达</a>
+															<a href="/soft/tag5596_EABFA1C7221DB.phtml" >车卡通</a>
+															<a href="/soft/tag5596_EABFA1C7209DB.phtml" >科倍软件</a>
+															<a href="/soft/tag5596_EABFA1C7161DB.phtml" >蓝格软件</a>
+															<a href="/soft/tag5596_EABFA1C7047DB.phtml" >云企时代</a>
+															<a href="/soft/tag5596_EABFA1C6939DB.phtml" >润丰源</a>
+															<a href="/soft/tag5596_EABFA1C6901DB.phtml" >腾鹰软件</a>
+															<a href="/soft/tag5596_EABFA1C6875DB.phtml" >精诚软件</a>
+															<a href="/soft/tag5596_EABFA1C6871DB.phtml" >车美易</a>
+															<a href="/soft/tag5596_EABFA1C6845DB.phtml" >微缔MES</a>
+															<a href="/soft/tag5596_EABFA1C6833DB.phtml" >雅迅</a>
+															<a href="/soft/tag5596_EABFA1C6789DB.phtml" >中友软件</a>
+															<a href="/soft/tag5596_EABFA1C6647DB.phtml" >掌讯</a>
+															<a href="/soft/tag5596_EABFA1C6457DB.phtml" >用心软件</a>
+															<a href="/soft/tag5596_EABFA1C6437DB.phtml" >翼管家</a>
+															<a href="/soft/tag5596_EABFA1C6417DB.phtml" >深知霖</a>
+															<a href="/soft/tag5596_EABFA1C6311DB.phtml" >悦兴软件</a>
+															<a href="/soft/tag5596_EABFA1C6159DB.phtml" >优企AutoCRM</a>
+															<a href="/soft/tag5596_EABFA1C6151DB.phtml" >中易智联</a>
+															<a href="/soft/tag5596_EABFA1C6105DB.phtml" >恒科软件</a>
+															<a href="/soft/tag5596_EABFA1C6095DB.phtml" >好会计软件</a>
+															<a href="/soft/tag5596_EABFA1C6065DB.phtml" >久鑫科技</a>
+															<a href="/soft/tag5596_EABFA1C6055DB.phtml" >元动S4软件</a>
+															<a href="/soft/tag5596_EABFA1C5973DB.phtml" >商行天下</a>
+															<a href="/soft/tag5596_EABFA1C5805DB.phtml" >华博之星</a>
+															<a href="/soft/tag5596_EABFA1C5795DB.phtml" >中顶软件</a>
+															<a href="/soft/tag5596_EABFA1C5559DB.phtml" >斯达皓普</a>
+															<a href="/soft/tag5596_EABFA1C5539DB.phtml" >诺怀</a>
+															<a href="/soft/tag5596_EABFA1C5535DB.phtml" >宏达</a>
+															<a href="/soft/tag5596_EABFA1C5152DB.phtml" >首佳</a>
+															<a href="/soft/tag5596_EABFA1C5045DB.phtml" >德召文</a>
+															<a href="/soft/tag5596_EABFA1C4989DB.phtml" >店店通</a>
+															<a href="/soft/tag5596_EABFA1C3903DB.phtml" >凯易通</a>
+															<a href="/soft/tag5596_EABFA1C3029DB.phtml" >兴华</a>
+															<a href="/soft/tag5596_EABFA1C2857DB.phtml" >久久</a>
+															<a href="/soft/tag5596_EABFA1C1301DB.phtml" >超旺</a>
+															<a href="/soft/tag5596_EABFA1C1237DB.phtml" >星城</a>
+															<a href="/soft/tag5596_EABFA1C1179DB.phtml" >易拓</a>
+															<a href="/soft/tag5596_EABFA1C1175DB.phtml" >用赢</a>
+															<a href="/soft/tag5596_EABFA1C1023DB.phtml" >旭荣</a>
+															<a href="/soft/tag5596_EABFA1C851DB.phtml" >维新经典</a>
+															<a href="/soft/tag5596_EABFA1C849DB.phtml" >驷惠科技</a>
+															<a href="/soft/tag5596_EABFA1C837DB.phtml" >怀远软件</a>
+															<a href="/soft/tag5596_EABFA1C661DB.phtml" >易用</a>
+															<a href="/soft/tag5596_EABFA1C8080DB.phtml" >凯锐软件</a>
+															<a href="/soft/tag5596_EABFA1C8066DB.phtml" >辉煌智通</a>
+															<a href="/soft/tag5596_EABFA1C8262DB.phtml" >易蝶</a>
+															<a href="/soft/tag5596_EABFA1C8260DB.phtml" >奥博克</a>
+													</div>
+					</div>
+										<div class="selected clearfix">
+						<span class="t">已选条件：</span>
+											</div>
+				</div>
+
+				<div class="filter-sum">为您找到相关软件产品128款，如果没有找到您想要的软件，<span class="contact"> 请联系我们：400-900-9878</span>
+					<!-- 贾海鹏 李丹丹测试 百度收录 -->
+					<a href="https://www.xuanruanjian.com/brand/653.phtml?dq=gd"></a>
+				</div>
+				<ul class="list-cate clearfix">
+                    <li class="two "><i></i><a href="/soft/tag5596.phtml?sw=readC">热门点击</a></li>
+                    <li class="thr "><i></i><a href="/soft/tag5596.phtml?sw=tryC">热门试用</a></li>
+                    <li class="one "><i></i><a href="/soft/tag5596.phtml?sw=star">评分</a></li>
+				</ul>
+				<div class="productSpecializaton" style="position:relative;top:-32px;left:720px;font-size:20px;line-height:20px;width:400px;"><img src="https://www.xuanruanjian.com/images/v2016/box_logo.png" style="margin-right:6px;height:20px;"/><a style="color:#f99501;vertical-align:top;" href="javascript:void(0);"onclick="$(null).freeDlgAction('https://www.xuanruanjian.com/productSpecialization.php?title=分类结果专业度调查', {width:325, height:375}, {useModalFrame:'No'});">分类结果专业度调查</a></div>
+				<div class="list-detail">
+					<div class="ld-wrapper">
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/59075.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2014/0925/17/59075_9e5b15.jpg" title="捷成汽修管理软件" alt="捷成汽修管理软件-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/59075.phtml" target="_blank">捷成汽修管理软件</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=59075',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=59075',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="集团化企业;大型企业;中小型企业">适用企业：集团化企业;大型企业;中</span>
+									<span>
+										<i>产品评分：</i>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;汽修汽配软件捷成汽修管理软件是一款针对汽修行业而全力打造的一款汽修管理软件。功能模块：包括汽车修理厂的所有业务，社会维修、保险、备件销售业务管理，车辆档案、库存管理、财务报表、各用户应收帐管理、各供应商应付帐管理。权限分配管理完全实现领导监控。目标客户：主要面向大、中型汽车修理厂，实现厂内多台电脑分工操作，完全实现财务控制，为您提供了严密的修车厂管理解决方案：1、车辆档案管理，清晰明了的档案及维修记录管理、提高工作效率、服务质量。2、准确快捷的备件库存管理，各种方便的库存备件查询、统计、分析功能。3、操作简单、易学易用，操作流程完全模拟现行手工管理模式，一般业务员一天就可学会。4、专业性、权威性，融入一汽专家经验智能控制系统，帮您管理流程。避免备件流失、财务控制严密、自动处理大量  业务数据，降低数据的统计分析难度。5、可靠性强， 数据采用大型数据库技术（SQL）安全可靠。6、自动提醒，及时处理 用户满意 业务数据的任何变化都将在智能程序的监督下，自动捕捉操作违规、用户欠费、回  访提醒，并及时向管理者提示报警。系统会自动提示：应回访的用户清单、欠款超限用户清单、欠款超期用户清单  应保养用户清单、保险到期用户、本期新用户清单、本期流失用户清单等。为提高服务质量、减低财务风险、及   时处理业务提供了可靠的保证。7、经理查询 经营情况，一目了然  电脑详尽适时地记录了汽修业务中的每个流程，总经理坐在办公室，通过电脑就可以对公司发生的的每笔业务、每  张单据、每辆待修车辆的详细数据、备件情况都一目了然。自动生成的经营报表提供了收入、支出、成本、利润、  业务清单、在修车辆等一切信息。8、一流的执行力，在所有的执行过程中，管理系统是执行力最好的执行方案，一旦设定方案，由系统自动、严格地执  行所有的管理控制措施，保证您预期的管理目标的实现。服务管理特点1、财务控制严密：流程的每一张单据均根据财务理论设计，不允许修改、删除，采用财务上冲红处理，确保结算收银得到有效财务控制2、各种业务帐务清晰：将修车厂所有业务（社会维修、保险、保养、定点维修、精品销售等）均纳入管理，系统自动分类汇总生成报表，各种业务帐务清晰，即点即查，便于领导根据数据做出正确的战略指导、监督及考核。3、对用户实现细分管理：可给用户分成不同级别，销售开单时，销售价按不同级别自动生成，对用户实现细分管理。 备件管理特点 1．价格管理体系  库存备件可定义5种销售价，可以按用户级别执行不同的销售价。业务员分成按级别，分别拥有不同的销售优惠权限和规定的优惠幅度。2．库存警戒线  设置《上限报警》可以防止库存积压；《下限报警》可以及时提示采购计划。  《积压报警》可以统计出指定时间内积压的备件清单，或本期未出库却有入库的备件。《时限报警》提示库龄超过公司规定库存时间的备件。3．强大的价格记忆功能自动记忆和管理各用户购买商品的价格，此次购货自动提示已购商品价格。对不同的用户实行不同的价格管理。4．自动盘点库存 快速准确的收发存明细帐，可以按仓库或零件号盘点出备件在本期内期初、入库、出库、结存数量，有库存差异的备件一目了然。5．避免备件流失 根据车辆维修状态自动控制备件出库，进厂开始到用户离开，完全实现自动化管理，时时监控业务每一流程，备件的入、出库，得到有效财务控制。6．备品库标准化管理</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										捷成汽修管理软件 汽修汽配 捷成 汽车修理 汽车4S店|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|1');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailChargeback.php?curId=0&msgId=59075&agentId=0');">免费在线试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/63345.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2015/1113/11/63345_4e4fcd.jpg" title="金迪汽修汽配美容保养管理系统" alt="金迪汽修汽配美容保养管理系统-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/63345.phtml" target="_blank">金迪汽修汽配美容保养管理系统</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=63345',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=63345',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="集团化企业;大型企业;中小型企业">适用企业：集团化企业;大型企业;中</span>
+									<span>
+										<i>产品评分：</i>
+																				暂无
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp; 金迪快修美容管理系统VER12.0功能介绍金迪快修美容管理软件服务台业务管理接车登记、急件领用、会员卡消费、快修档案查询、维修业务查询、班组产值统计、班组领料统计、班组工时配件汇总、车辆维修统计分析、客户维修清单配件库存管理商品订购、入库登记、销售登记、出库登记、库存盘点、配件调拨、价格处理、入库查询（入库综合汇总）、入库统计、入库分类统计、出库查询（出库综合汇总）、出库统计、出库分类统计、盘点统计、调拨统计、库存统计、库存动态盘点、配件进销存统计、低于库存下限报警、高于库存上限报警、库存账龄分析、配件滞销分析。客服中心管理来电显示、有效、无效、售后出厂回访、客户综合分析回访、客户投诉管理、保险车审登记、险统计、违章登记、违章统计、客户消费排名、客户消费明细、客户兴趣爱好查询、客户类别设置、题词管理、。会员管理会员综合管理、新会员发卡、会员卡延期、会员卡挂失、会员卡挂失补卡、会员购买套餐、会员卡预存费用、会员卡密码修改、会员卡密码清除、会员发卡统计、会员收费统计、会员退会统计、会员卡消费查询、会员折率设定。积分管理消费积分、成批赠送积分、积分变更处理、积分日志查询、消费积分统计、积分兑换现金（单个）、积分兑换现金（批量）、积分兑换套餐（批量）、积分标准设定。财务管理现金银行往来统计、财务自定义报表中心、营业日报、维修产值清单、维修应收处理、保险应收处理、索赔应收处理、保险应收汇总、配件应付处理、配件应收处理、配件应收应付查询、维修收入分类分析、配件收入成本分析、维修业绩分析月报、维修业务统计分析、系统管理用户管理、、工作组权限管理、数据整理、清除以往数据、日志查询、数据备份、管理系统初始设置、配件供应商管理、弹出项管理（售后）、班组人员设定、厂牌车型设定、仓库货位设定、维修保养天数设定、成组作业管理、常用工时收费标准设置、套餐设置、一般工时定额标准设置、汽车车型分类参照表、汽车总成及零部件划分表、配件资料管理、配件库存维护。系统业务导航、业务报警（回访报警、会员报警、套餐报警、保险报警、保养报警、流失报警、、、年审报警、季审报警、综合审报警、库存上限报警、库存下限报警、客户投诉报警）、用户修改密码、退出。   金迪快修美容管理系统的特色  （1）★信息存储量大：采用SQL-Server大型数据库，系统数据绝对稳定安全，对业务全过程进行全方位的现代化管理，五百多个实用功能不仅能对基本的数据资料进行管理，并且具有强大的统计、分析能力，为领导提供决策支持。  （2）★操作简单灵活：严格按照行业流程操作，用户界面统一，真正实现“傻瓜式操作”，一学就会；人性化设计，可以进行多方式自定义操作设置，只要会基本的电脑操作甚至不太懂基本的电脑操作都能很快学会或掌握金迪软件的操作使用。   （3）★专业性强：迪软公司是致力于汽车服务行业专业管理软件研发的高科技软件开发公司，金迪人用18年的精心专注，打造了"金迪"这一著名品牌，全国上万家客户的用户群，确立了我们在汽车服务行业管理软件的领先地位。我们的产品涵盖了汽车销售、维修服务、美容快修及配件管理等整个汽车销售及服务领域，为销售服务店、汽车销售商、汽车维修厂、美容快修店、配件销售店等企业提供专业的管理软件、解决方案设计及专业的售后服务。   （4）★系统结构科学合理：结构清晰有序，具有良好的业务应变能力与可扩充性，完全支持多车型配件及多车型工时标准处理，为企业的发展提供全面支持，保护用户的投资效益。   （5）★行业经验：拥有行业多年的方案经验、拥有行业多年的实施安装经验、拥有行业多年的培训经验、拥有行业多年的售后服务经验、拥有行业各区域处理经验。   （6）★解决能力：在全国各省市除澳门和台湾没有客户外，其他省市均有客户，我们拥有各地域的处理能力、应变能力、培训能力、售后能力和沟通能力。   （7）★培训能力：首次把企业培训引进汽车行业的培训，把以往的强制而死板的学习彻底改变过来，提高培训技巧，把理论带进生活，把技能形象化、具体化，让操作员轻松学会，不是在是死记硬背、用罚款来强制学习，让学习当着听故事，做到“一家一培训”，一家企业有一套操作流程、注意事项和解决方案；   （8）★机构能力：我们不断学习，专注打造行业品牌，确保全国客户的利益和市场发展的需求能力，涵盖了汽车行业集整车销售、维修服务、备件管理、精品装潢、快修美容、会员俱乐部、二手车交易等整个汽车销售和售后服务领。   （9）★独特能力：我们拥有深圳发展前沿的引导能力，拥有深圳特区发展的速度执行力，拥有深圳人文的分享能力，拥有深圳年轻人的奋斗能力，拥有深圳国际大都市的瞻远能力。   （10）★加密能力：软件彻底告别U盾（硬件）加密狗，采用内部特殊加密，完全解决很多企业加密狗烧坏、丢失而导致数据丢失或需要二次付费的困扰，软件代码双重加密永久不会坏，永久保存在软件中，同时方便维护，不用再担心U盾（硬件）加密狗坏了就不能用系统，保障系统实时正常运营；   （11）★开发能力：具有良好的业务应变能力和扩充等延伸能力，可以根据客户的具体需求进行二次开发或定制开发和业务对接等其他附属配套实施；   （12）★快修美容接车登记：集中体现以“服务台为中心，高效率工作”的管理理念，快速接车入单、结算收银（可实现POS打印小票，自动弹钱箱等人性化功能），同时避免一个业务操作多个功能时进入多个页面的烦恼，提高工作效率。  （13）★成组作业管理：在使用金迪软件的过程中，可以预先设置某一保养类别、某个车型的保养项目、保养时所需配件信息，如一保、二保需要的所有保养项目和更换配件。在快速接车登记时选择“成组登陆”，一次性录入，然后根据需要增删改，可以极大提高工作效率。   （14）★先进的会员管理系统：支持会员卡（条码卡、磁卡、ID卡、IC卡等）发卡、消费等，支持会员套餐消费，支持客户预存费用及消费，并且在客户账户发生变动时向客户发送息。  （15）★支持POS收银操作：可以连接专业的 POS小票打印机，打印票据时并可自动弹出钱箱等。  （16）★自动报警功能：可以根据公司的业务需求在系统进行提前报警天数设置，系统将会自动报警；比如：保养到期报警、保险到期报警、年审到期报警、会员到期报警、客户生日报警、客户流失报警等。   （17）★管理模式设置：在使用金迪软件前，客户可以根据公司的管理要求定制自己的管理模式，如：作业单号生成规则、工单打印类型、工时、配件、索赔系数等，还可设置结算模式，刷新形式等。   （18）★配件（精品）管理条码化：融入超市的管理模式，从配件入库、出库、盘点等各个环节采用条码识别，实现了POS机、条码识别的便捷及精确的物流管理。   （19）★配件入库导入和导出：配件入库登记可以批量导入和批量导出；  （20）★批量调价功能：根据商品的市场变化，可随时在系统中对零售价进行逐一或批量调价。   （21）★配件调拨功能：分店与分店之间的仓库相互调用配件。   （22）★库存盘点功能：可以随时进行仓库盘点，同时可以启用盘点机等硬件设备结合使用。   （23）★库存自动报警：根据公司的营业状况，设置各配件的库存上限与库存下限，系统将根据所设置的内容自动进行配件库存报警。   （24）★支持多种成本核算方法：系统提供移动加权平均、个别计价法等多种计价方法，满足不同管理需要。   （25）★提供多达六种价格类型，可以根据不同客户类别选择不同的出库价格。   （26）★配件成本隐藏: 销售时配件成本可自动隐藏，并可通过授权随时快速查看成本与快速隐藏。   （27）★配件入售价跟踪：销售配件时系统可自动跟踪配件最近几次的进货价与销售价。   （28）★详细的配件变动历史：影响配件库存的所有变化都会记录在案，方便配件变动历史跟踪。   （29）★支持多功能查询：支持模糊查询，全拼查询，拼音码查询，组合查询等。   （30）★：联手中国移动、中国联通，嵌入高端的及接收技术，自动或手动发送报警信息，完工信息，账号金额变动信息，提示信息、老总日报信息等。  （31）★来电记录及自动弹屏显示：客户拨打公司电话咨询或投诉，系统根据来电电话号码自动料并且自动弹出，使客户的基本资料、会员积分信息、保险信息、维修档案、历次回访及反馈信息等一目了然，方便与客户沟通，通话内容快速进入业务主题，提高效率。   （32）★支持多帐套操作:支持集团多帐套操作，权限管理详细、严格。  （33）★支持客户佣金处理：支持客户佣金处理，同时又可以隐藏数据，使财务数据和客户数据清晰、明白。   （34）★授权的严谨性：金迪系统的所有操作功能模块都需通过管理员的授权界面进行控制，比如：限制员工拥有哪些操作模块、最高优惠打折权限、员工能否进行删单，改单等操作。   （35）★自定义报表：用户可以根据自己的需要设计报表格式，并自己组合条件实现不同的查询统计。   （36）★客户回访：按单回访客户，记录客户反馈意见、投诉等，并可根据回访结果生成多种服务报表。   （37）★查询及统计：按时间段分类（正常收费、厂家索赔、保险索赔、内部免费）统计营收数据，按班组分类统计单数及产值，按时间段进行维修效率统计分析，按时间段分时段进厂统计分析，日报、月报，明细、汇总等。   （38）★批量授权：同岗位统一批量授权，提搞操作效率和准确性；  （39）★自动核算进销存统计：系统根据月末最后一天或结算日自动生成进销存统计表，彻底不用担心过了月底做统计。   （40）★操作日志记录与查询：公司管理层可以随时查看系统操作人员的操作记录，比如是否在使用系统、何时登陆系统、是否存在私自改单或删单的情况等；   （41）★数据整理：实时减少占用电脑内存，提高操作速度和预防系统卡死；   （42）★系统安全性:  1.【兼容性】兼容windosXP系统、windos Server 2003系统、win7系统、IPad以及各大品牌智能手机操作系统； 2.【用户友好性】界面美观，操作简捷，风格统一，傻瓜式操作； 3.【用权限管理】分查询权限和操作权限，登陆时需有用户名和相应登陆密码; 4.【保护功能】操作员离开系统20分钟后，系统自动断开与服服务器的连接； 5.【操作日志管理】支持日志记录、查询、导出和清理； 6.【系统备份】系统默认三种数据同时备份，支持自动备份和手动备份； 7.【安全与恢复】系统数据是加密文件，资料存放在服务器电脑上，客户端（分机）不存放数据资料，客户端（分机）不能拷贝服务器资料信息；重装系统后用系统备份文件还原即可恢复正常使用。  金迪软件，十八年只做汽修软件，数万家实战技巧，诚信始终如一，服务始终至上，赶快加入我们的实战吧！</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										金迪汽修汽配美容保养管理系统 汽修汽配 金迪 汽车修理 汽车美容 汽车4S店 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|1');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailChargeback.php?curId=0&msgId=63345&agentId=0');">免费在线试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/60559.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/72733c115e0174f39e8b850860e26ecf.gif" title="博士德汽配+汽修管理软件" alt="博士德汽配+汽修管理软件-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/60559.phtml" target="_blank">博士德汽配+汽修管理软件</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=60559',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=60559',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="中小型企业">适用企业：中小型企业</span>
+									<span>
+										<i>产品评分：</i>
+																				暂无
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;汽修汽配软件
+
+   博士德汽配+汽修管理软件基于C理论的新一代管理软件。系统 集10余年研发经验之大成，拥有先进架构、功能强大，操作简单，是12万家客户的选择。
+
+
+ 适用客户：配件为主兼有维修&middot;维修为主兼有配件&middot;一站式服务企业......
+
+ 产品特点：
+
+ 1、对行业深入了解。总设计人经营汽配汽修公司多年，对配件业务、维修业务的管理需求、流程和特殊需求了如指掌，使软件的整体设计合理、功能贴近实际。
+ 2、技术先进。采用DELPHI、C#.NET编程语言，SQL SERVER数据库，从根本上保证了程序的安全、稳定。
+ 3、操作简单。单机版一键记账。网络版流程清晰。远程版速度快。
+
+ 功能介绍：
+
+ 1、多个帐套和隐藏帐套
+ 可以建立多个帐套，管理多公司或多门店。帐套可以隐藏，无关人员不能进入。
+ 2、价格参谋
+ 录入清单时，按F3，该配件的进价、加权平均进价、最近一次进货价、该客户上次的销售价、最近一次销售价、最高售价、最低售价，都立即显示出来以供参考。
+ 3、预设销售价格
+ 可预先设定销售价格。加价率可以自定义。
+ 4、虚拟库存
+ 利用询价功能，可以建立一个虚拟库存。在这个虚拟库存里，都是别人的库存、型号信息、数量信息、价格信息。有客户询问这些配件的价格，可以做到张嘴就来，扩大了您的财路。
+ 5、业务跟踪
+ 博士德软件为客户提供了一个非常实用的业务跟踪功能。什么时间、给谁报过价、数量多少等等，一清二楚。某一段时间内，哪些报过价的业务还没有做成，这些客户的电话号码是多少、联系人是谁、报价项目和价格多少等。有了这个功能，将大大提高业务成功率，很多报过价的业务，不会因为疏忽或没有追紧而白白的丢掉。
+ 6、随时查询虚拟库存和历史报价
+ 在做销售单时，随时查询与客户有关的信息。比如，按Ctrl+F1 ，查询是否曾经报过价；库存不够时，按Ctrl+F2 , 查询谁有货、价格多少；按Ctrl+F3 ，可以查看一下，以前历史销售情况。非常方便。
+ 7、任意打印和报表自定义
+ （1）即打即停。
+ （2）报表的表头、表尾、表体等可随意设计。打印格式、标题、纸张、打印项目可以随意设计。实现最美观的报表。
+ 8、原地穿透查询
+ 在任何地方，查询的时候，只要查询到单据，双击或点查询业务按钮都可调出原始单据并打印。极大的提高了查询效率。
+ 9、模糊查询
+ 在输入或者查询的时候，支持模糊输入和查询。例如：在查询客户时，想查询博士德公司，可以在查询对话框单位名称栏中输入BSD，计算机会自动将拼音字头带有BSD的所有单位显示出来。
+ 10、库存参谋
+ （1）销售录入时，如果库存数量不足，该行将自动变为红色。
+ （2）计算机自动生成缺件明细表。根据缺件明细表，自动给出历史进货厂家和价格。
+ 11、自动归档、分类、汇总
+ 计算机自动将业务单据中的所有信息分类、汇总，自动存入历史档案。
+ 12、万能查询
+ 库存查询、虚拟库存查询、报价查询、进销存查询、盘点查询、经营查询、往来帐查询等各种各样的汇总查询，博士德基本全部涵盖。
+ 13、可以导出数据
+ 任何单据，都可以导出为EXCEL格式、网页格式、文本格式。然后可以修改。
+ 14、远程管理可实现：
+ 各店互查库存有无，各店之间网上调拨货、网上订货，实时查询、汇总各店库存及经营情况。</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										博士德汽配+汽修管理软件 汽修汽配 博士德 汽车修理 汽车4S店 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|2');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailApplyback.php?curId=0&msgId=60559',3);">申请试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/63391.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2015/0708/10/63391_5ba133.jpg" title="升达汽车美容快修" alt="升达汽车美容快修-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/63391.phtml" target="_blank">升达汽车美容快修</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=63391',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=63391',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="中小型企业">适用企业：中小型企业</span>
+									<span>
+										<i>产品评分：</i>
+																				暂无
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;　　随着我国成为汽车制造与消费的大国，汽车行业在国民经济中成为越来越重要的产业。汽车大量进入老百姓的家庭，汽车美容快修行业也越来越引起大家的重视。因此，2014年公司将重点打造汽车美容快修系统，满足管理上的需求。　　升达汽车系列共分2个版本：《升达汽车美容》与《升达汽车美容快修》　　主要功能：　　1、美容管理（洗车、抛光、打蜡等）　　2、配件销售　　3、维修管理（接车登记、维修单、材料费与工时费管理）　　4、保险理赔　　5、根据车型确定洗车价　　6、车辆信息管理　　7、个人客户与单位客户管理</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										升达汽车美容快修 汽修汽配 升达软件 汽车修理 汽车美容 汽车装饰 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|2');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailApplyback.php?curId=0&msgId=63391',3);">申请试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/61299.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2017/1219/17/61299_4f3129.jpg" title="诺怀云修管理系统" alt="诺怀云修管理系统-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/61299.phtml" target="_blank">诺怀云修管理系统</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=61299',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=61299',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="集团化企业;中小型企业">适用企业：集团化企业;中小型企业</span>
+									<span>
+										<i>产品评分：</i>
+																				暂无
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;　　诺怀云修汽修管理软件是重庆诺怀软件有限公司打造，是面向汽车修理厂、修理厂连锁店、4S店售后维修服务部门，涉及售后维修、配件进销存、客户关系及财务账款管理等。解决方案打造汽车维修服务、配件进销存管理和客户关系管理与一体的应用管理系统。　　产品介绍　　该解决方案是面向汽车修理厂、修理厂连锁店、4S店售后维修服务部门，涉及售后维修、配件进销存、客户关系及财务账款管理等。解决方案打造汽车维修服务、配件进销存管理和客户关系管理与一体的应用管理系统。快修美容版和综合修理厂版本供你选择为满足不同的业务需求，我们推出了您可以按照以下版本进行选购，也可以在版本基础上选择功能模块进行组合购买，有特殊的需求还可以进行定制开发。 快修美容版: 10分钟上手、流程清楚、功能使用 适用于:业务是洗车、小修、快修快保的社区店系统使用者需要同时管理库存、员工等多项事务  1-2人使用软件综合维修版: 全方位管理、职权责清晰、功能强大适用于:业务是综合修理职权责和管理流程清晰有3个及以上的人使用软件 功能介绍 四大子系统，全面管理维修厂的员工 流程 服务 营销 更高品质的企业管理和更多样的互联网营销方案，就是这么简单！ 微信营销 系统基于微信的种种优势开展新媒体营销，让你的品牌快速推广，传达给更多新车主。 流程管理系统 售前售中售后，维修业务流程，提升企业对客户的服务响应速度及公司内部工作效率。 进销存管理系统 实现库存精细管理，仓库进销存管理，严格审核盘点，库存预警智能提醒。 客户关系管理系统 管理客户关系,通过及时互动获得客户信任，形成良性的客户反馈与服务循环体系。 APP 移动接车，移动派工，移动领料，随时随地查看数据报表。</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										 |修理厂流程管理 修理厂进销存管理 修理厂客户关系管理 修理厂运营统计报表 微信营销 APP 诺怀云修管理系统 修理厂流程管理 修理厂进销
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|2');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailApplyback.php?curId=0&msgId=61299',3);">申请试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/61537.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2014/1107/14/61537_2ea82d.jpg" title="捷成汽配管理软件" alt="捷成汽配管理软件-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/61537.phtml" target="_blank">捷成汽配管理软件</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=61537',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=61537',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="集团化企业;大型企业;中小型企业">适用企业：集团化企业;大型企业;中</span>
+									<span>
+										<i>产品评分：</i>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;目标客户： 主要面向各种具有批发、零售业务汽车配件商店功能：1.清晰明了的销售记录及进货记录管理、用户往来帐目总帐及详单管理。2.准确快捷的备件库存管理，各种方便的查询统计并生成专业的统计报表。3.操作简单、易学易用、操作流程完全模拟现行手工管理模式，一般业务人员一天就可学会。4.专业性、权威性 系统采用专业术语、标准化报表、工作流程融入专家经验智能控制。　　捷成汽配管理软件 是集长春第一汽车集团公司售后服务系统多年的汽车配件销售管理经验，全国几百家用户总结出的多条管理经验，多名汽配行业经理及同行提出的问题和要求并综合财务理论，针对汽车配件销售管理方面开发的专用管理软件。 该软件特别适合于各种类型汽车配件销售部门的销售管理工作，充分体现汽配管理特点，彻底解决汽配管理问题，借助计算机就可快速完成进货、销售、库存、财务管理、打印单据等全部工作。软件具有功能适用、专业性强、易学易用、汉字输入量极少，一般业务人员不必经过专业培训即可使用。保您: 易学 实用 满意。</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										捷成汽配管理软件 汽修汽配 捷成 汽车修理 汽车美容 汽车装饰 汽车4S店 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|1');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailChargeback.php?curId=0&msgId=61537&agentId=0');">免费在线试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/50535.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2014/1010/11/50535_9a147c.jpg" title="管家婆汽配汽修2S版" alt="管家婆汽配汽修2S版-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/50535.phtml" target="_blank">管家婆汽配汽修2S版</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=50535',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=50535',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="中小型企业">适用企业：中小型企业</span>
+									<span>
+										<i>产品评分：</i>
+																				暂无
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;汽修汽配软件 管家婆汽配汽修系列软件是一套针对汽车行业应用的信息化解决方案。该系列软件充分结合汽配汽修行业的经营管理特性，集财务、维修、OA管理于一体，帮助企业建立起简洁高效的业务流程和协同工作机制，实现企业维修业务以及成本、毛利核算的全方位实时管理，提高工作效率，提升经营管理水平。 适用客户：汽车配件公司、摩托车配件公司、汽车美容店、洗车店、汽车装饰店、汽车快修店、中小型汽车修理厂、工程机械配件公司、汽车配件组装厂。 产品特点： 强大的配件信息管理： 提供零配件编号、名称、规格、车型、通用车型、通用件的穿透式查询，只要记住部分配件信息，就能查询到相关配件；提供配件多图片管理功能，无论是包装图，还是零件图，都能为您管理得井井有条。 简洁高效的仓储管理： 货位管理自动记忆配件的存放货位，并支持录单时修改的快捷方式，可极大提高物流配送效率；条码对货功能可通过条码扫描核对发货准确性，极大地降低仓库发货出错率。 一站式维修流程管理： 从估价到维修，再到保险理赔，为您提供一站式维修流程管理；方便快捷的旧件回收、洗车管理可帮助企业高效处理琐碎的维修相关业务；特有的维修套餐服务为您提供成套的维修服务与配件管理，为企业减轻了烦琐的业务录入工作量。 完善的会员管理： 提供汽车行业各种常见的会员管理方式，包括洗车卡管理、储值卡管理、会员配件价格管理、会员服务折扣管理和会员提醒管理。 功能介绍： 应用价值： 1.实时掌握配件库存 及时、准确掌握每一种具体配件的库存存量，以及配件在各仓库货位的分布情况，帮助您及时补货和调配，及时做出决策。 2.有效的客户价格跟踪 同样的配件或服务，针对不同客户，可以快速查询相应的售价。 3.即时掌握销售状况 即时掌握配件的销售额、成本，毛利、纯利等情况，帮助企业调整经营策略；从接受订单、销售发货到收款，了解每一笔业务的来龙去脉。 4.往来对帐清楚明白 快速、准确地查询与每一家客户往来之间的配件发货记录、实际收款记录，有效控制客户的信用额度。</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										管家婆汽配汽修2S版 汽修汽配 管家婆 汽车修理 汽车4S店 采购管理 销售管理 库存管理 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|2');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailApplyback.php?curId=0&msgId=50535',3);">申请试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/64115.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2015/1127/17/64115_fa9da6.jpg" title="好会计汽修王" alt="好会计汽修王-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/64115.phtml" target="_blank">好会计汽修王</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=64115',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=64115',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="中小型企业">适用企业：中小型企业</span>
+									<span>
+										<i>产品评分：</i>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 3/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 3/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 3/>
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;　　产品简介　　汽修版是为小型维修厂提供的业务处理与管理查询的平台，满足汽修企业从采购、库房、调配、销售、修理、结算等一套完整的管理体系。它包括维修管理、配件管理、售后服务等等，模块设计简洁实用。设计思想以服务客户为终旨，帮助客户提供增加附加值的信息数据。　　适用对象　　小型汽修厂　　主要功能模块　　车辆进场、登记、检测、派工、领料、结算、收款，计件工资管理，车牌统计，维修档案管理，委托修理汇总，修理费用统计，维修利润表等。　　扩展空间　　随着企业的发展升级到与之同步的管理平台</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										汽修软件 汽车修理软件 好会计汽修 | 好会计汽修王 汽修汽配 好会计软件 汽车修理 汽车美容 汽车装饰 汽车4S店 汽车配件
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|2');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailApplyback.php?curId=0&msgId=64115',3);">申请试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/49257.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2015/0617/16/49257_681bb6.jpg" title="驷惠汽配汽修管理标准版" alt="驷惠汽配汽修管理标准版-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/49257.phtml" target="_blank">驷惠汽配汽修管理标准版</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=49257',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=49257',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="中小型企业">适用企业：中小型企业</span>
+									<span>
+										<i>产品评分：</i>
+																				暂无
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;汽配汽修企业管理软件
+
+ 驷惠 汽修汽配管理标准版以客户资源为中心，以实际的汽车维修、养护服务业务管理流程要求为依托，真正体现管理要求，为客户提供高附加值的服务，功能集配件管理、汽车维修、客户化智能提醒等管理。驷惠软件是充分从用户实际的需求、管理与使用的角度；溶入国外的先进管理经验的应用管理软件。
+
+ 适用对象：汽配汽修企业、汽车维修店、汽车快修店等企业。
+
+ 软件特点：
+
+ 专业、简便易用，使用见效快；模块化组合管理，业务衔接紧密，；硬件投入低，并可以利用集中部署，实现异地同步办公与业务管理。
+ 功能模块：系统主要分成装具配件简单进销存管理、汽车维修管理理、财务管理、经营统计分析系统等4个大的模块管理。
+
+ 驷惠汽配汽修管理标准版功能介绍：
+
+ 【维修管理】
+ 汽车检测、保养建议：提供原厂维修保养建议数据。
+ 车辆维修单：维修派工，维修领料，维修结算。
+ 维修套餐管理：提供自定义式的套餐管理，增加灵活的促销手段。
+ 【业务收款】
+ 现金收款
+ 业务收款就是对维修业务收款处理，可以单笔业务结算，也可以对多笔历史业务收款。
+ 【年检管理】
+ 车辆需要定期做车检，在车辆信息中录入客户车辆的下次年检日期，到期后软件可以提醒客户做车检。
+ 【车辆保险管理】
+ 车辆都有保险业务，在车辆信息档案中录入保险的起止时间，保险到期后软件可提醒客户续交保险。
+ 【查询统计】
+ 在维修综合查询中，关于维修的所有业务单据，包含委托维修和美容快修，都可以方便的查询。可以按照维修单号、维修项目、维修用料，维修人员业绩等方式灵活查询。
+ 【回访与提醒】
+ 回访与提醒是对客户的一种关怀，规范的回访与提醒加强了与客户的沟通，有助于维护客户资源，树立良好的服务形象。
+ 维修的车辆修理完毕出厂后，要在一段时间内对客户回访，记录客户的满意程度，对此次维修的意见及处理结果，方便和客户及时沟通。提醒主要包括保养项目，定期保养车辆，和客户生日的提醒，以提醒客户养护车辆。
+ 【触摸屏】
+ 展示企业形象、宣传企业产品、促销信息发布、在修车辆状态等
+ 配件进销存管理--理清货
+ 【进货管理】
+ 提供：进货单管理、采退管理。
+ 哪些配件要补货了？补多少最合适？我来给你参考。
+ 分析某供应商的供应的配件是否畅销？利润是多少？清晰明了。
+ 【销售管理】
+ 提供：销售清单管理、销售退回管理、赠品管理
+ 处理客户业务，要做到心中有数，您做业务，驷惠帮助您：
+ 同个配件不同客户不同价格，历史成交价，我帮您准确拿捏；
+ 严密的客户帐务控制，管理客户信誉额度，控制不同客户享受折扣和优惠比例；
+ 通用件管理，客户常购配件，笔笔清晰；
+ 支持条码管理、多仓库打印；
+ 简洁、快速的单据录入，全方位的业务信息查询和管理，业务员能应付任何复杂业务了；
+ 【库房管理】
+ 提供：库存管理、盘点管理
+ 库存管理交给我，我就是您的管家婆：
+ 强大的库存查询和统计功能，支持多库操作、库存明细和汇总；
+ 科学严谨的盘点管理；
+ 安全库存管理，根据历史销售情况，提供库存数量合理化建议；
+ 【财务管理】--管好帐
+ 提供：收款单、付款单；应收款总账、明细帐查询；应付款总账、明细账查询；帐龄分析管理。
+ 企业经营各项业务、各种花销，财务审核严谨、控制有效、查询统计一目了然：
+ 应收应付笔笔清晰，我欠别人，别人欠我，及时反映；
+ 各笔业务，成本是多少?利润是多少？优惠额度多少？是否还有欠款？查询清晰明朗；
+ 提供帐龄分析、超期应收款智能提醒，提醒您及时追帐，帐务管理做到有的放矢；
+ 审核管理和单据审核中心
+ 企业可以根据业务需要，对各项业务进行审核控制和审核管理。审核的流程和审核人员客户可以自定义。按单据进行设置，可指定每种业务单据的审核人，审核人可以为一人或多人。
+ 审核提醒：当有需要你审核的单据时，系统会自动给你发来消息，提醒你对单据进行审核。
+ 审核中心：审核中心里面有所有需要审核的单据，并且审核中心里可以批量过账，删除单据，取消审核，退回上级流程等功能。
+ 内部消息传递系统
+ 消息通知系统是针对上、下工作流业务沟通的需要而开发的内部消息通知系统，相关人员收到消息通知后，会在右下角有类似QQ用户上线信息提示，及时相应相关工作。工作流消息通知系统与内部消息系统完全融合。
+ 工作流消息通知系统：含进货--入库的通知、采退--入库的通知、销售--出库的通知、销退--出库的通知、调出--调入的通知、维修流程的通知、单据审核、单据收款的通知等。
+ 企业管理分析决策系统
+ 老板报表中心：独立的老板报表中心为老板提供汇总统计任意时间段公司经营报表，销售业务数据分析，进货业务数据分析，库存报表分析，销售成本、利润分析等，为公司决策提供有效决策支持。
+ 经营情况统计表
+ 经营分析：提供企业经营分析的重要数据统计和报表分析、企业关键的经营数据和经营信息提供提醒和报警设置，辅助员工处理日常工作、帮助老板经营决策。
+ 业绩考核：按时间段考核、评比，系统直接分出名次。实现内部成本核算及员工业绩考核量化管理。让员工的工作业绩量化、考核具体化，极大地挖掘员工的工作积极性和主动性。</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										驷惠汽配汽修管理标准版 汽修汽配 驷惠 汽车修理 汽车认证 汽车4S店 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|2');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailApplyback.php?curId=0&msgId=49257',3);">申请试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+												<dl class="item clearfix">
+							<dt>
+								<a href="https://www.xuanruanjian.com/soft/msg/59797.phtml" target="_blank"><img src="https://img1.xuanruanjian.com/images/message/thumbs6/2015/0106/14/59797_b4ad89.jpg" title="首佳汽车美容软件-大众美容版" alt="首佳汽车美容软件-大众美容版-" height="120" width="120"/></a>
+							</dt>
+							<dd class="info">
+								<div class="tit"><a href="https://www.xuanruanjian.com/soft/msg/59797.phtml" target="_blank">首佳汽车美容软件-大众美容版</a></div>
+								<div class="func clearfix"><a href="JavaScript:tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskPrice.php?curId=0&msgId=59797',3);">询价</a> <a class="send" href="JavaScript:chanceCount('|4');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailAskToBuy.php?curId=0&msgId=59797',3);">求购</a></div>
+								<div class="c-de clearfix">
+									<span>软件类别：汽车修理软件</span>
+<!--									<span>软件类别：汽车修理软件</span>-->
+									<span title="集团化企业;事业行政单位;大型企业;中小型企业">适用企业：集团化企业;事业行政单位</span>
+									<span>
+										<i>产品评分：</i>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+										<img src="https://www.xuanruanjian.com/images/v2016/icon_flower.png" alt="" 5/>
+
+									</span>
+								</div>
+								<div class="des">&nbsp;&nbsp;&nbsp;&nbsp;汽修汽配软件　　首佳汽修美容软件大众美容版适用于有汽车美容业务的汽修厂、或者有汽车维修业务的汽车美容店、汽车维修和汽车美容一体的汽车综合服务单体店或者连锁店。 产品特色: 1、易学易用易培训。软件操作简单，容易上手，5分钟学会开单。 2、超级聪明的软件，可实现零售后、零维护，具备自我恢复、免安装、防误操作的功能。一切只为让软件变得更简单！ 3、维修业务、配件业务、客户关系、美容会员业务完美的结合 4、提供配件的快速入库功能，配件入库和添加新属性合二为一简单方便 5、支持简拼输入，不会打字的也可以快速的找到配件、维修项目、车主等 6、数据库加密，海量数据储存，自动备份，安全可靠，万无一失 7、短信群发功能，与提醒功能完美结合，方便及时的联系客户并做好售后服务，留住老客户，发展新客户 8、软件流程的可申缩性让您的管理随需而定，几百个细节功能点设置，满足各种管理需求。 9、软件服务也是我们的特色！首佳软件是业内唯一的一家敢把软件售后服务评价公开在互联网上供新客户参考的软件公司。我们提供快速、高效、信守承诺的软件售后服务，是您值得信赖的合作伙伴！ 10、交易有保障，提供淘宝、货到付款、上门服务、直接汇款等交易方式。淘宝三钻信用，好评率达99.92%。 功能介绍: 一、维修业务：委托修理单、派工单、领料表 、车间调度、结算单、保险跟踪、维修服务跟踪、证照年审查询、索赔定价管理、保险索赔登记、保险索赔统计、投保登记、投保统计、保险到期提醒 二、维修报表：维修收入利润表、维修档案管理、维修领料表、车主汇总表、车牌统计、维修领料性质统计、维修项目性质统计、修理工业务员统计 三、配件业务：订货单、订货入库、采购入库、工具入库、入库退货单、客户订单、订单销售、销售单、工具领用管理、销售退货、工具归还管理、急件订货单、旧件入库单、三包旧件索赔 四、配件报表：订货单明细表、入库汇总表、入库明细表、入库退货汇总表、入库退货明细表、工具入库统计表、销售汇总表、销售明细表、销售退货汇总表、销售退货明细表、客户订单明细表、工具领用统计表、货品进销明细账、货品进销存汇总表 五、库存管理：库存查询、库存修改、库存盘点、盘点损益表、旧件库存管理  六、财务管理：维修收款单、维修工工资表、入库付款单、入库退货收款单、销售收款、销售退货付款单、会员卡销售收款、会员卡收款对账单、会员卡收款总账、营业外收支、财务收支汇总账、经营状况查询 七、客户及会员：客户档案、客户关系分析、会员卡销售、会员卡使用、会员卡销售统计、会员卡使用统计、业务员销售统计、会员卡充值统计、龙卡快速洗车、快速洗车统计表、会员卡未使用统计、客户回访及联系统计 八、系统管理：初始化、维修及会员提醒、系统清零、系统备份、商品类别定义、用户及权限管理、报表管理中心、数据上传、短信账号设置、短信管理后台、短信发送 应用价值: 软件会员卡、洗车卡、储值卡可积分，通过设定的项目自动核算积分，可积分兑换，通过发行会员卡捆绑客户到店里消费，为汽修美容店形成稳定的客户群，统计积分、优惠促销刺激客户消费,会员卡可以设置客户级别，根据会员级别，系统自动折扣，刺激客户消费；洗车卡可快速结算，开单、结算次数和金额，打印小票等！除有美容会员卡之外还包含有美容业务、美容报表、配件业务、配件报表、库存管理、财务管理、系统管理等7大项内容，每个功能在设计上都本着&ldquo;简单、实用、高效、便捷&rdquo;的原则，力求操作上直观，更为管理上节省人力、物力、财力!</div>
+								<div class="belong clearfix">
+									<div class="cl">
+										首佳汽车美容软件-大众美容版 汽修汽配 首佳 汽车修理 汽车美容 汽车装饰 汽车4S店 汽车配件|
+									</div>
+									<div class="ensure">
+										<a  href="javascript:;" class="z"><span>100%官方正版</span><i></i></a>
+										<a  href="javascript:;" class="k"><span>靠谱供应商</span><i></i></a>
+										<a  href="javascript:;" class="m"><span>选型专家免费咨询</span><i></i></a>
+										<a  href="javascript:;" class="s"><span>5分钟闪电响应</span><i></i></a>
+									</div>
+								</div>
+							</dd>
+							<dd class="ser">
+								<a class="btn-try" href="JavaScript:chanceCount('|1');tongfuTplLoginRefreshStatus('https://try.xuanruanjian.com/trailChargeback.php?curId=0&msgId=59797&agentId=0');">免费在线试用</a>
+								<a href="JavaScript:showBW8ChatWin()" class="btn-contact">和我联系</a>
+							</dd>
+						</dl>
+											</div>
+
+					<div class="pagination">
+						<a href="/soft/tag5596.phtml?p=1" class=""><上一页</a><span><a class="on">1</a><a href="/soft/tag5596.phtml?p=2">2</a><a href="/soft/tag5596.phtml?p=3">3</a><a href="/soft/tag5596.phtml?p=4">4</a><a href="/soft/tag5596.phtml?p=5">5</a><a href="/soft/tag5596.phtml?p=6">6</a><a href="/soft/tag5596.phtml?p=7">7</a></span><a href="/soft/tag5596.phtml?p=2" class="">下一页></a>
+<!--						<a href="javascript:;" class="prev">< 上一页</a><a href="javascript:;" class="on">1</a><a href="javascript:;">2</a><a href="javascript:;">3</a><a href="javascript:;">4</a><a href="javascript:;">5</a><a href="javascript:;">6</a><a href="javascript:;">7</a><a href="javascript:;" class="next">下一页 ></a>-->
+					</div>
+				</div>
+
+			</div>
+			<div class="right">
+				<div class="appointment">
+					<div class="ig"><img src="https://www.xuanruanjian.com/images/v2016/man01_03.jpg" alt=""/></div>
+					<ul class="roll-news">
+												<li class="clearfix"><span class="name">贾**</span><span class="phone">136********</span><span class="time" prjLogTime = "1542352599">33小时前预约</span></li>
+												<li class="clearfix"><span class="name">**</span><span class="phone">********</span><span class="time" prjLogTime = "1542243610">64小时前预约</span></li>
+												<li class="clearfix"><span class="name">%**</span><span class="phone">186********</span><span class="time" prjLogTime = "1542014979">127小时前预约</span></li>
+												<li class="clearfix"><span class="name">**</span><span class="phone">********</span><span class="time" prjLogTime = "1541916850">154小时前预约</span></li>
+											</ul>
+					<div class="actForm">
+						<form action="#">
+							<div class="ipt">
+								<input type="text" class="phone userMobile" value="您的电话" name = "mobile" />
+								<div class="warn">
+									<div class="mk"></div>
+									<div class="txt">请输入您的电话</div>
+								</div>
+							</div>
+							<div class="ipt">
+								<input type="text" class="name userName" value="您的姓名" name="uName" />
+								<div class="warn">
+									<div class="mk"></div>
+									<div class="txt">请输入您的姓名</div>
+								</div>
+							</div>
+							<a href="javascript:;"  class="btn-submit" >免费预约</a>
+						</form>
+						<div class="tips">很着急？马上拨打<span>400-900-9878</span></div>
+					</div>
+				<div class="resultImg" style="display:none;"><img src="https://www.xuanruanjian.com/images/v2016/detailPrjResult.png"/></div>
+				</div>
+				<style type="text/css">
+					.roundness_chat{
+						display:none!important;
+					}
+				</style>
+				<script type="text/javascript">
+					function showBW8ChatWin(){
+						$('.roundness_chat').click();
+						resizeBW8ChatWin();
+					}
+					function resizeBW8ChatWin(){
+						var bw8ChatWrap = $('#bw8-chatWrap'), t, l;
+						t = ($(window).height()-bw8ChatWrap.height())/2+300;
+						l = ($(window).width()-bw8ChatWrap.width())/2+500;
+						if(t < 0) t = 0;
+						if(l < 0) l = 0;
+						bw8ChatWrap.css({top:t,left:l});
+					}
+					$(window).resize(function(){
+						resizeBW8ChatWin();
+					});
+				</script>
+				<script language="javascript" type="text/javascript"  charset="gb2312" src=" https://www.bangwo8.com/osp2016/chat/js/chatInit_v3.js?bangwo8Info=OTgwMTMyOTM5YTY3ZjA5NjgwOTQxNWNhMWM5ZjExMmQ5NmQyNzY4OWI=" async="async" id="bangwo8Info"  vn="1709" customerInfo="" tagName=""></script>
+
+
+				<script type="text/javascript">
+						function warnTab(obj){
+				        var timer = null;
+				        obj.stop().animate({right:0},function(){
+				            timer = setTimeout(function(){
+				                obj.stop().animate({right: '-100%'},function(){
+				                    clearTimeout(timer);
+				                    timer = null;
+				                });
+				            },1000);
+				        });
+				    }
+				    function checkMobile(mobile){
+						var reg = /^1[3-9]{1}\d{9}$/;
+						if(reg.test(mobile)){
+							return true;
+						}else{
+							return false;
+						}
+					}
+					//列表页、详情页右侧选型专家找软件
+					$(".userMobile").focus(function(){
+						$(this).css("color","#333");
+						$(this).isNull = 1;
+						if($(this).val() == "您的电话"){
+							$(this).val("");
+						}
+
+					}).blur(function(){
+						$(this).css("color","#a9a9a9");
+						$(this).isNull = 0;
+						if($(this).val() == ""){
+							$(this).val("您的电话");
+						}
+					})
+					$(".userName").focus(function(){
+						$(this).css("color","#333");
+						$(this).isNull = 1;
+						if($(this).val() == "您的姓名"){
+							$(this).val("");
+						}
+
+					}).blur(function(){
+						$(this).css("color","#a9a9a9");
+						$(this).isNull = 0;
+						if($(this).val() == ""){
+							$(this).val("您的姓名");
+						}
+					})
+					//
+					$('.btn-submit').click(function(){
+						var mobile = $(".userMobile").val();
+						var name = $(".userName").val();
+						if(checkMobile(mobile)){
+							$('.resultImg').show();
+							$('.actForm').hide();
+							//发送预约信息
+							$.get("https://www.xuanruanjian.com/ajax_makeAnAppointment.php",{mobile:mobile,name:encodeURIComponent(name)},function(d){
+
+							});
+						}
+						else{
+							$(".userMobile").parent().find(".warn .txt").text("手机号错误");
+							warnTab($(".userMobile").parent().find(".warn"));
+						}
+					});
+
+				</script>
+				<div class="r-list">
+					<div class="range">
+						<div class="t"></div>
+						<ul class="ran-list">
+
+						</ul>
+					</div>
+					<div class="range">
+						<div class="t">  汽修汽配解决方案</div>
+						<ul class="ran-list">
+														<li><span class="n red">1</span><a href="https://www.xuanruanjian.com/art/120005.phtml" title="元动S4-MCR汽车维修连锁管理解决方案" target="_blank">元动S4-MCR汽车维修</a></li>
+			  											<li><span class="n red">2</span><a href="https://www.xuanruanjian.com/art/119505.phtml" title="元动S4汽车维修单店管理解决方案" target="_blank">元动S4汽车维修单店管理</a></li>
+			  											<li><span class="n red">3</span><a href="https://www.xuanruanjian.com/art/116785.phtml" title="秘奥软件汽修汽配行业管理解决方案" target="_blank">秘奥软件汽修汽配行业管理</a></li>
+
+						</ul>
+					</div>
+
+					<div class="range">
+						<div class="t">相关资讯</div>
+						<ul class="rel-list">
+											            					                	<li class="line"><a href="/art/140990.phtml" target="_blank">学汽车美容容易吗？一块抹</a></li>
+				                				        					            					                	<li class="line"><a href="/art/140850.phtml" target="_blank">法兰克福汽配展 大有与您</a></li>
+				                				        					            					                	<li class="line"><a href="/art/140784.phtml" target="_blank">咸宁车管中心专业定制管理</a></li>
+				                				        					            					                	<li class="line"><a href="/art/140448.phtml" target="_blank">恩施市洪林汽车维修牵手博</a></li>
+				                				        					            					                	<li class="line"><a href="/art/140442.phtml" target="_blank">这么大的汽修市场为何汽修</a></li>
+				                				        					            					                	<li class="line"><a href="/art/140190.phtml" target="_blank">汽车配件外贸软件，能为企</a></li>
+				                				        					            					                	<li class="line"><a href="/art/139816.phtml" target="_blank">捷成汽修管理软件能够给企</a></li>
+				                				        					            					                	<li class="line"><a href="/art/139804.phtml" target="_blank">捷成汽修管理软件能够给企</a></li>
+				                				        					            					                	<li class="line"><a href="/art/139690.phtml" target="_blank">博士德立足西南市场 辐射</a></li>
+				                				        					            					                	<li class="line"><a href="/art/139652.phtml" target="_blank">博士德立足西南市场 辐射</a></li>
+				                				        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        					            					        							</ul>
+					</div>
+					<div class="range">
+						<div class="t">浏览过的软件</div>
+						<ul class="read-list" id="visitHistoryPanel">
+							 <div class="fileOv" id="visitHistoryPanel">
+				              <script language="javascript" type="text/javascript">
+							    $.get2('/vhList.php',null,function(d){
+							    	$('#visitHistoryPanel').html(d);
+							    });
+							    </script>
+                			</div>
+							<!--<li><a href="javascript:;" class="ig"><img src="https://www.xuanruanjian.com/images/v2016/duomi.png" width="60" height="60" alt=""/></a><a href="javascript:;" class="txt">畅捷通T3标准版</a></li>
+							<li><a href="javascript:;" class="ig"><img src="https://www.xuanruanjian.com/images/v2016/duomi.png" width="60" height="60" alt=""/></a><a href="javascript:;" class="txt">升达财务通</a></li>
+							<li><a href="javascript:;" class="ig"><img src="https://www.xuanruanjian.com/images/v2016/duomi.png" width="60" height="60" alt=""/></a><a href="javascript:;" class="txt">卓越精财财务管理</a></li>
+							<li><a href="javascript:;" class="ig"><img src="https://www.xuanruanjian.com/images/v2016/duomi.png" width="60" height="60" alt=""/></a><a href="javascript:;" class="txt">数码印刷ERP</a></li>
+							<li><a href="javascript:;" class="ig"><img src="https://www.xuanruanjian.com/images/v2016/duomi.png" width="60" height="60" alt=""/></a><a href="javascript:;" class="txt">用友财务软件</a></li>-->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="bottom">
+	<div class="wrapper clearfix">
+		<div class="b-itm">
+			<div class="t"><img src="https://www.xuanruanjian.com/images/v2016/icon_guide.png" alt=""/><span>用户指南</span></div>
+			<ul>
+				<li><a target="_blank" href="https://www.xuanruanjian.com/art/113491.phtml">注册流程</a></li>
+				<li><a target="_blank" href="https://www.xuanruanjian.com/art/82503.phtml">试用流程</a></li>
+			</ul>
+		</div>
+		<div class="b-itm">
+			<div class="t"><a href="https://www.xuanruanjian.com/aboutus/" target="_blank"><img src="https://www.xuanruanjian.com/images/v2016/icon_about.png" alt=""/><span>关于我们</span></a></div>
+			<ul>
+				<li><a href="https://www.xuanruanjian.com/aboutus/index.php?6" target="_blank" rel="nofollow">选软件网动态</a></li>
+				<li><a href="https://www.xuanruanjian.com/aboutus/index.php?4" target="_blank" rel="nofollow">联系我们</a></li>
+				<!--<li><a href="https://www.xuanruanjian.com/OSL.php?fixErrUrl=aHR0cDovL3d3dy5nbndheS5jb20vbmV3cy9uZXdzRGV0YWlsLnBocD9uZXdJZD0xOTY1NzgmY0lkPTk%3D" target="_blank" rel="nofollow">营业执照</a></li>-->
+				<li><a href="https://www.xuanruanjian.com/art/141584.phtml" target="_blank" rel="nofollow">营业执照</a></li>
+			</ul>
+		</div>
+		<div class="b-itm">
+			<div class="t"><a href="https://e.xuanruanjian.com/" target="_blank"><img src="https://www.xuanruanjian.com/images/v2016/icon_service.png" alt=""/><span>商家服务</span></a></div>
+			<ul>
+				<li><a href="https://www.xuanruanjian.com/registerSupplier.php" target="_blank" rel="nofollow">免费入驻</a></li>
+				<li><a href="https://e.xuanruanjian.com/service.phtml" target="_blank" rel="nofollow">撮合交易</a></li>
+				<li><a href="https://www.xuanruanjian.com/openPlatform.php" target="_blank" rel="nofollow">开放平台</a></li>
+				<li><a href="https://e.xuanruanjian.com/project.phtml" target="_blank" rel="nofollow">专题服务</a></li>
+				<li><a href="https://e.xuanruanjian.com/ad.phtml" target="_blank" rel="nofollow">广告服务</a></li>
+				<li><a href="https://e.xuanruanjian.com/inviteBus.phtml" target="_blank" rel="nofollow">渠道招商</a></li>
+<!--				<li><a href="https://e.xuanruanjian.com/store.php" target="_blank" rel="nofollow">企业应用商店</a></li>-->
+			</ul>
+		</div>
+		<div class="b-itm">
+			<div class="t"><a href="/aboutus/index.php?5" target="_blank"><img src="https://www.xuanruanjian.com/images/v2016/icon_help.png" alt=""/><span>帮助中心</span></a></div>
+			<ul>
+				<li><a rel="nofollow" target="_blank" href="https://www.xuanruanjian.com/aboutus/index.php?5">常见问题</a></li>
+				<li><a rel="nofollow" target="_blank" href="https://www.xuanruanjian.com/aboutus/index.php?11">等级规则</a></li>
+				<li><a rel="nofollow" target="_blank" href="https://www.xuanruanjian.com/art/109501.phtml">开发商入驻</a></li>
+				<li><a rel="nofollow" target="_blank"  href="https://www.xuanruanjian.com/art/127089.phtml">代理商入驻</a></li>
+				<li><a rel="nofollow" href="JavaScript:mySaas8TryFlow.showDialog('https://member.xuanruanjian.com/user3/advice.php');">反馈意见</a></li>
+				<!--<li><a rel="nofollow" target="_blank" href="https://www.xuanruanjian.com/bbs/portal.php">论坛</a></li>
+				<li><a rel="nofollow" target="_blank" href="https://wenda.xuanruanjian.com/">问答</a></li>-->
+			</ul>
+		</div>
+		<div class="b-itm">
+			<div class="t"><a href="/aboutus/index.php?1" target="_blank"><img src="https://www.xuanruanjian.com/images/v2016/icon_protocol.png" alt=""/><span>协议说明</span></a></div>
+			<ul>
+				<li><a href="/aboutus/index.php?1" target="_blank" rel="nofollow">服务协议</a></li>
+				<li><a href="/aboutus/index.php?2" target="_blank" rel="nofollow">版权说明</a></li>
+				<li><a href="/aboutus/index.php?7" target="_blank" rel="nofollow">安全与保障</a></li>
+				<li><a href="/aboutus/index.php?9" target="_blank" rel="nofollow">交易声明</a></li>
+				<li><a href="/aboutus/index.php?8" target="_blank" rel="nofollow">买家责任</a></li>
+				<li><a href="/aboutus/index.php?10" target="_blank" rel="nofollow">服务商责任</a></li>
+			</ul>
+		</div>
+		<div class="line"></div>
+		<div class="authorization">
+			<div class="ig"><img src="https://www.xuanruanjian.com/images/v2016/bottom_s.png" alt=""/></div>
+			<div class="code clearfix">
+				<div class="c">
+					<a href="javascript:;" class="e-code">
+						<img src="https://www.xuanruanjian.com/images/v2016/bottom_code.png" alt=""/>
+						<span class="big"><img src="https://www.xuanruanjian.com/images/v2016/weixinBig.png" alt=""/></span>
+					</a>
+				</div>
+				<div class="btn-scan">
+					<div class="t">扫描二维码</div>
+					<a href="javascript:;"><img src="https://www.xuanruanjian.com/images/v2016/bottom_btn.gif" alt=""/></a>
+				</div>
+			</div>
+		</div>
+		<div class="line"></div>
+		<div class="guarantee">
+			<div class="ig"><img src="https://www.xuanruanjian.com/images/v2016/bottom_z.png" alt=""/></div>
+			<div class="tel">
+				<div class="num">招商电话：<span>15210951626</span></div>
+				<div class="num">购买咨询：<span>400-900-9878</span></div>
+				<div class="time">9:00-18:00  （周一至周日）</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--con end-->
+
+<!--Footer-->
+<div class="footer">
+	<div class="footer-c">
+				<div class="e_licence">
+			<p class="t">增值电信业务经营许可证：<a rel="nofollow" href="javascript:void(0);">京100262 京ICP备05008343号</a></p>
+			<p class="record"><a rel="nofollow" href="https://www.xuanruanjian.com/OSL.php?fixErrUrl=aHR0cDovL3d3dy5iZWlhbi5nb3YuY24vcG9ydGFsL3JlZ2lzdGVyU3lzdGVtSW5mbz9yZWNvcmRjb2RlPTExMDEwNjAyMDIyMDIz">京公网安备 11010602022023号</a></p>
+		</div>
+	</div>
+
+</div>
+<!--  首页悬浮框start  -->
+<ul class="bw8_suspend">
+	<li >
+		<p style="color:#fff;">发布</p>
+		<p style="color:#fff;">需求</p>
+		<div class="bw8_suspend_content_1">
+			<p class="bw8_suspend_code_icon"></p>
+		</div>
+	</li>
+	<li>
+
+		<span class="bw8_suspend_icon bw8_suspend_icon1"></span>
+		<div class="bw8_suspend_content">
+
+			<span class="bw8_suspend_num">400-900-9878</span>
+		</div>
+	</li>
+	<li>
+		<a onclick="showBW8ChatWin()">
+			<span class="bw8_suspend_icon bw8_suspend_icon2"></span>
+			<div class="bw8_suspend_content" >
+				<p class="bw8_suspend_num">在线客服</p>
+			</div>
+		</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://www.xuanruanjian.com/OSL.php?fixErrUrl=aHR0cDovL3NoYW5nLnFxLmNvbS93cGEvcXVud3BhP2lka2V5PWU2OTU0MDAzYTkwMzFhY2U0YTVlYzA1ZmJiY2IxMzBmMTBmOWM0NTU3NDQ4YjEyYjg1NDMwYmU2YTI1ZWQ5ZmQ%3D">
+
+			<span class="bw8_suspend_icon bw8_suspend_icon3"></span>
+			<div class="bw8_suspend_content">
+				<p class="bw8_suspend_num">找软件交流群</p>
+			</div>
+		</a>
+	</li>
+	<li style="border-bottom: none;">
+		<a href="JavaScript:mySaas8TryFlow.showDialog('https://member.xuanruanjian.com/user3/advice.php');">
+			<span class="bw8_suspend_icon bw8_suspend_icon4"></span>
+			<div class="bw8_suspend_content">
+				<p class="bw8_suspend_num">投诉建议</p>
+			</div>
+		</a>
+	</li>
+</ul>
+<script>
+
+	$(function(){
+		$(".bw8_suspend>li").hover(function(){
+			$(this).find("div").css("display","block");
+
+		},function(){
+			$(this).find("div").css("display","none");
+
+		});
+
+	})
+
+</script>
+<!--  首页悬浮框end  -->
+<!--footer end-->
+<script>
+	//商机信息统计
+	function chanceCount(signNum){
+		$.ajax({
+			type: "get",
+			url: "https://www.xuanruanjian.com/chanceCount.class.php",
+			data: "signNum="+signNum,
+			success: function(data){
+				//alert( "Data Saved: " + data );
+			}
+		});
+	}
+</script>
+<!--		百度推送代码        -->
+<script>
+	(function(){
+	    var bp = document.createElement('script');
+	    var curProtocol = window.location.protocol.split(':')[0];
+	    if (curProtocol === 'https') {
+	        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+	    }
+	    else {
+	        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+	    }
+	    var s = document.getElementsByTagName("script")[0];
+	    s.parentNode.insertBefore(bp, s);
+	})();
+</script>
+<script language="javascript" type="text/javascript" src="https://www.xuanruanjian.com/baidu_ad.js"></script>
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?2f654867bbb9da2d9ac0d63c65359101";
+	  var s = document.getElementsByTagName("script")[0];
+	  s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<!--首页右侧底部广告-->
+<script>
+$(function(){
+	var popupCookeKey = 'pop-up_windows';
+	if($.fn.cookie(popupCookeKey) == null){
+		$.fn.cookie(popupCookeKey, '1',{ expires:3/24},"/");
+		$(".pop-up_windows").simpleDialog({left: $(window).width()-$(".pop-up_windows").width() ,top: $(window).height()-$(".pop-up_windows").height() ,modal:'No',useModalFrame:'No',useFloat:"Yes"});
+	}
+});
+</script>
+<style type="text/css">
+.pop-up_windows{position:absolute;width: 300px;height: 198px;margin:50px auto;display:none;margin:0px;padding:0px;}
+.pop-up_windows_top{height:55px;width: 300px;font-size: 16.69px;padding-top:15px;background: #ff1c1c;}
+.pop-up_windows_top img{float:right;margin-right: 10px;}
+.pop-up_windows_top .exchange{display:block;width:143px;height:18px;margin: 0 auto;color: #fff;}
+.pop-up_windows_top .exchange b{font-size: 16.6px;}
+.pop-up_windows_top .chitchat{font-size: 15px;width: 171px;height: 15px;padding-top:8px;margin: 0 auto;color: #fff;}
+.pop-up_windows_bottom{height:134px;width: 300px;position: relative;background: #ff1c1c;}
+.pop-up_windows_bottom .content{width:118px;float: left; padding-left: 15px;}
+.pop-up_windows_bottom .content img{margin:15px 0 15px 27px;}
+.pop-up_windows_bottom .qq_group{width: 118px;height: 29px;display: inline-block;text-decoration: none;text-align: center;line-height: 29px;background: #fff;color: #e4393c;	font-size: 14.58px}
+.pop-up_windows_bottom .line{width: 1px;height: 85px;background: #fff;position: absolute;top: 27px;left: 149px;}
+.pop-up_windows_bottom .qrcode{width:113px;float: right;padding-top: 18px;}
+.pop-up_windows_bottom .qrcode span{font-size:13.33px;display:block; position: relative;right: 15px; color: #fff;}
+</style>
+<!--<div class="pop-up_windows " >-->
+    <!--<div class="pop-up_windows_top" btnLabel="Yes">-->
+    	 <!--<img src="https://www.xuanruanjian.com/images/sideClose.png" btnClose="Yes"/>-->
+    	 <!--<div class="exchange">加入<b>找软件交流群</b></div>-->
+    	 <!--<div class="chitchat">一起聊聊找软件那些事儿</div>-->
+    	 <!---->
+    <!--</div>-->
+   <!--<div style="background:#ff1c1c;"><span style="border-top:1px dashed #eb6b6d;height:1px;overflow:hidden;width:240px;display:block;margin:0px auto;"></span></div>-->
+     <!--<div class="pop-up_windows_bottom">-->
+    	  <!--<div class="content">-->
+    	  	  <!--<img src="https://www.xuanruanjian.com/images/group_chat.png"/>-->
+    	  	  <!--<a class="qq_group" target="_blank" href="https://www.xuanruanjian.com/OSL.php?fixErrUrl=aHR0cDovL3NoYW5nLnFxLmNvbS93cGEvcXVud3BhP2lka2V5PWU2OTU0MDAzYTkwMzFhY2U0YTVlYzA1ZmJiY2IxMzBmMTBmOWM0NTU3NDQ4YjEyYjg1NDMwYmU2YTI1ZWQ5ZmQ%3D" >加入QQ群</a>-->
+    	  <!--</div>-->
+    	  <!--<div class="line"></div>-->
+    	  <!--<div class="qrcode">-->
+    	  	    <!--<img src="https://www.xuanruanjian.com/images/2D_barcode.png"/>-->
+				<!--<span>扫一扫 加入微信群</span>-->
+    	  <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+
+
+</body>
+</html>
