@@ -12,15 +12,10 @@ case class StateBuilder[T](fs: List[PartialFunction[(T, String), T]]) {
   def last: T => ExtractorState[T] = t => parse(PartialFunction.empty)(Some(t))
 
   def build: T => ExtractorState[T] = {
-    fs.foldLeft(last) {
-      case (acc: (T => ExtractorState[T]), previous: PartialFunction[(T, String), T]) => (t: T) =>
-        new ExtractorState[T] {
-          override def goto: PartialFunction[String, ExtractorState[T]] = {
-            case line if previous.isDefinedAt((t, line)) => acc(previous.apply((t, line)))
-          }
-
-          override def extracted: Option[T] = Some(t)
-        }
+    fs.foldLeft(last) { case (acc, previous) => (t: T) =>
+      parse[T] {
+        case line if previous.isDefinedAt((t, line)) => acc(previous.apply((t, line)))
+      }(Some(t))
     }
   }
 }
