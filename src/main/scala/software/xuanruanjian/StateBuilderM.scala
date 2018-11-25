@@ -1,7 +1,7 @@
 package software.xuanruanjian
 
-import software.xuanruanjian.DetailParser2.Esi.parse
-import software.xuanruanjian.DetailParser2.{Esi, ExtractorState}
+import io.happy.Spider.Esi.parse
+import io.happy.Spider.{Esi, ExtractorState}
 
 case class StateBuilderM[T](fs: List[PartialFunction[(T, String), T]]) {
   def repeat(): StateBuilderM[T] = ???

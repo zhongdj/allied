@@ -1,7 +1,7 @@
-package software.xuanruanjian
+package io.happy
 
-import software.xuanruanjian.DetailParser2.Esi.parse
-import software.xuanruanjian.DetailParser2.ExtractorState
+import Spider.Esi.parse
+import Spider.ExtractorState
 
 case class StateBuilder[T](fs: List[PartialFunction[(T, String), T]]) {
 

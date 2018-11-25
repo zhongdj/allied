@@ -9,7 +9,10 @@ lazy val root = (project in file(".")).
       version := "0.1.0-SNAPSHOT"
     )),
     name := "Hello",
-    libraryDependencies += "org.reactivemongo" % "reactivemongo_2.12" % "0.16.0",
+    resolvers += "Sonatype Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots/",
+    libraryDependencies ++= Seq(
+      "org.reactivemongo" % "reactivemongo_2.12" % "0.16.0",
+      "org.reactivemongo" %% "reactivemongo-akkastream" % "0.16.0"),
     libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.8",
     libraryDependencies += scalaTest % Test,
     libraryDependencies ++= Seq(

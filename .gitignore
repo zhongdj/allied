@@ -19,3 +19,32 @@ project/plugins/project/
 # ENSIME specific
 .ensime_cache/
 .ensime
+ .DS_Store
+.idea/
+10001-30000.log.tar.gz
+80-10000.log.tar.gz
+812400-2000000.log.tar.gz
+bigdata.txt
+company_basic.tar.gz
+hyother
+iheima/
+product.json
+product.json.2nd
+product.json.exp
+product.json.exp.zip
+product.json.zip
+result.txt
+result.txt 2.zip
+result.txt.zip
+result3.txt
+result4.txt
+result5.txt
+src/main/resources/urls.txt
+tag6031.phtml
+x
+xuanruanjian.002.zip
+xuanruanjian.zip
+xuanruanjian.zip.001.zip
+xuanruanjian.zip.003.zip
+xuanruanjian/
+
