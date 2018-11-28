@@ -13,7 +13,8 @@ lazy val root = (project in file(".")).
     libraryDependencies ++= Seq(
       "org.reactivemongo" % "reactivemongo_2.12" % "0.16.0",
       "org.reactivemongo" %% "reactivemongo-akkastream" % "0.16.0"),
-    libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.8",
+    libraryDependencies += "com.typesafe.play" %% "play-json" % "2.6.10",
+    libraryDependencies += "org.reactivemongo" % "reactivemongo-play-json_2.12" % "0.16.0-play26",
     libraryDependencies += scalaTest % Test,
     libraryDependencies ++= Seq(
       "com.typesafe.akka" %% "akka-http" % "10.1.5",

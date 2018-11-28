@@ -8,19 +8,16 @@ import akka.http.scaladsl.model._
 import akka.http.scaladsl.model.headers._
 import akka.stream.ActorMaterializer
 import akka.stream.scaladsl.Sink
-import reactivemongo.akkastream.AkkaStreamCursor
-import reactivemongo.api.{Cursor, MongoConnection}
+import reactivemongo.api.MongoConnection
 import reactivemongo.api.collections.bson.BSONCollection
 import reactivemongo.api.commands.WriteResult
-import reactivemongo.bson.{BSONArray, BSONDocument, BSONObjectID}
+import reactivemongo.bson.{BSONDocument, BSONObjectID}
 // Reactive streams imports
-import org.reactivestreams.Publisher
 import akka.stream.scaladsl.Source
-import reactivemongo.akkastream.{AkkaStreamCursor, cursorProducer, State}
+import org.reactivestreams.Publisher
+import reactivemongo.akkastream.{AkkaStreamCursor, State, cursorProducer}
 
-import scala.concurrent.Future
-import scala.concurrent.{Await, ExecutionContext, Future}
-import scala.concurrent.duration._
+import scala.concurrent.{ExecutionContext, Future}
 
 object DetailSpider extends App {
 
@@ -40,8 +37,7 @@ object DetailSpider extends App {
     val cursor: AkkaStreamCursor[BSONDocument] =
       collection.find(BSONDocument(
         "detailed_downloaded" -> BSONDocument("$exists" -> false))
-      ).
-        sort(BSONDocument("id" -> 1))
+      ).sort(BSONDocument("id" -> 1))
         .cursor[BSONDocument]()
 
     val src: Source[BSONDocument, Future[State]] = cursor.documentSource()
