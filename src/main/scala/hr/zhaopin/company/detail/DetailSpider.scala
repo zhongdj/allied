@@ -48,7 +48,7 @@ object DetailSpider extends App {
 
   val parallsm = 4
 
-  def writeToMongo: (BSONObjectID, String) => Future[WriteResult] = (id, content) => detailcoll.flatMap { bColl =>
+  private def writeToMongo: (BSONObjectID, String) => Future[WriteResult] = (id, content) => detailcoll.flatMap { bColl =>
     bColl.insert(false)
       .one(BSONDocument(
         "pageId" -> id,

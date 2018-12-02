@@ -47,7 +47,7 @@ object XRJParser extends App {
     }
   }
 
-  val cate  = """.+?<a href=\"([^javascript|http|\"].+?)\".+?>(.+?)<.*""".r
+  val cate = """.+?<a href=\"([^javascript|http|\"].+?)\".+?>(.+?)<.*""".r
 
   case class Initialized(acc: List[Cate]) extends CateState {
     override def read(line: String): CateState = line match {
@@ -77,12 +77,17 @@ object XRJParser extends App {
   }
 
   case class Cate(title: String, url: String, children: List[Cate] = Nil) {
-    override def toString: String = s"Cate(title = ${title}, url = ${url}${if (children.isEmpty) ")" else ", children = \n\t" + children.mkString("\n\t")}"
+    override def toString: String = {
+      s"""
+         |"${title}" : [ ${children.map(c => s""""${c.title}"""").mkString(",")} ]
+      """.stripMargin
+    } //s"title = ${title}, url = ${url}${if (children.isEmpty) ")" else ", children = \n\t" + children.mkString("\n\t")}"
   }
 
-  Source.fromFile("/Users/barry/Workspaces/frank/allied/src/main/resources/xuanruanjian.html", "GB2312")
-    .getLines()
-    .foldLeft[CateState](Initializing())((s, l) => s.read(l))
-    .acc
-    .foreach(println)
+  println(
+    Source.fromFile("/Users/barry/Workspaces/frank/allied/src/main/resources/xuanruanjian.html", "GB2312")
+      .getLines()
+      .foldLeft[CateState](Initializing())((s, l) => s.read(l))
+      .acc.mkString(",")
+  )
 }
